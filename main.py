@@ -11,15 +11,14 @@ df = pd.read_csv("dummy_data_updated_eligibility3.csv")
 
 # Encoding Employment status to numbers
 
-emp_encode = {'Employment Status': {'Employed': 1, 'Unemployed': 2, 'Self-employed': 3, 'Retired': 4}}
+emp_encode = {'Employment Status': {'Employed': 1, 'Unemployed': 2, 'Self-Employed': 3}}
 df.replace(emp_encode, inplace=True)
 
 # Encoding Marital Status
 m_encode = {'Marital Status': {'Divorced': 1, 'Married': 2, "Widowed": 3}}
-
+df.replace(m_encode, inplace=True)
 # Encoding Owns Property
-df["Real Estate Status"].fillna('None', inplace=True)
-own_encode = {'Real Estate Status': {'Yes': 1, 'No': 0}}
+own_encode = {'Real Estate Status': {'Own': 1, 'Rent': 2, 'None': 3}}
 df.replace(own_encode, inplace=True)
 # print(df['Owns Property'].value_counts())
 
@@ -38,51 +37,47 @@ df.replace(eli_encode, inplace=True)
 
 KNN = KNeighborsClassifier()
 
-x = df[['Annual Income',
-        'Number of Dependents',
+x = df[['Number of Dependents',
+        'Medical Expenses',
+        'Loan Status',
+        'No. of Schemes Availed',
+        'Annual Income',
         'Employment Status',
         'Age',
         'Real Estate Status',
-        'Bank Balance',
-        'Loan Status',
-        'Medical Expenses',
-        "No. of Schemes Availed",
-        "Bank Balance"]]
+        "Bank Balance",
+        "Marital Status"]]
 
 y = df['ELIGIBILITY CRITERIA']
 
 
 KNN = KNN.fit(x,y)
 
-test = pd.DataFrame()
-
 # TESTING
 
 # Reading our dummy test file
 
-test_df = pd.read_csv('test_data.csv')
+test_df = pd.read_csv('dummy_data_updated_eligibility3_test.csv')
 
 test_df.replace(emp_encode, inplace=True)
-test_df['Real Estate Status'].fillna('None', inplace=True)
-
-test_df.replace(region_encode, inplace=True)
-test_df.replace(own_encode, inplace=True)
+test_df.replace(m_encode, inplace=True)
+test_df.replace(own_encode, inplace=True)   
 test_df.replace(loan_encode, inplace=True)
 test_df.replace(eli_encode, inplace=True)
 
 
-x_test = test_df[['Income',
-                  'Number of Dependents',
-                  'Employment Status',
-                  'Age',
-                  'Education Level',
-                  'Region',
-                  'Owns Property',
-                  'Bank Balance',
-                  'Loan Status',
-                  'Medical Expenses']]
+x_test = test_df[['Number of Dependents',
+        'Medical Expenses',
+        'Loan Status',
+        'No. of Schemes Availed',
+        'Annual Income',
+        'Employment Status',
+        'Age',
+        'Real Estate Status',
+        "Bank Balance",
+        "Marital Status"]]
 
-y_test = test_df["Eligibility"]
+y_test = test_df["ELIGIBILITY CRITERIA"]
 
 predict_eligibilty = KNN.predict(x_test)
 
