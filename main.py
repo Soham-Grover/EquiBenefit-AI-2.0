@@ -7,60 +7,49 @@ from sklearn.metrics import confusion_matrix
 # -----SETTING UP OUR DATA-----
 
 # Reading our dummy data csv file
-df = pd.read_csv("Updated_Govt_Schemes_Data.csv")
+df = pd.read_csv("dummy_data_updated_eligibility3.csv")
 
 # Encoding Employment status to numbers
-
-print(df["Employment Status"][:5])
 
 emp_encode = {'Employment Status': {'Employed': 1, 'Unemployed': 2, 'Self-employed': 3, 'Retired': 4}}
 df.replace(emp_encode, inplace=True)
 
-# Encoding education level
-df['Education Level'].fillna('None', inplace=True)
-
-edulevel_encode = {'Education Level': {'Secondary': 2, 'Primary': 1, 'Higher': 3, 'Graduate': 4, 'None': 5}}
-df.replace(edulevel_encode, inplace=True)
-
-# Encoding Region
-
-region_encode = {'Region': {'Urban': 1, 'Rural': 2, 'Suburban': 3}}
-df.replace(region_encode, inplace=True)
+# Encoding Marital Status
+m_encode = {'Marital Status': {'Divorced': 1, 'Married': 2, "Widowed": 3}}
 
 # Encoding Owns Property
-
-own_encode = {'Owns Property': {'Yes': 1, 'No': 0}}
+df["Real Estate Status"].fillna('None', inplace=True)
+own_encode = {'Real Estate Status': {'Yes': 1, 'No': 0}}
 df.replace(own_encode, inplace=True)
 # print(df['Owns Property'].value_counts())
 
 # Encoding Loan status
-loan_encode = {'Loan Status': {'No Loan': 0, 'Pending': 1, 'Defaulted': 2, 'Paid': 3}}
+loan_encode = {'Loan Status': {"Yes": 1, "No": 0}}
 df.replace(loan_encode, inplace=True)
 
 # Encoding Eligibilty
 
-eli_encode = {'Eligibility': {'Yes': 1, 'No': 0}}
+eli_encode = {'ELIGIBILITY CRITERIA': {'Yes': 1, 'No': 0}}
 df.replace(eli_encode, inplace=True)
 
 
-print(df["Employment Status"][:5])
 
 # TRAINING
 
 KNN = KNeighborsClassifier()
 
-x = df[['Income',
+x = df[['Annual Income',
         'Number of Dependents',
         'Employment Status',
         'Age',
-        'Education Level',
-        'Region',
-        'Owns Property',
+        'Real Estate Status',
         'Bank Balance',
         'Loan Status',
-        'Medical Expenses']]
+        'Medical Expenses',
+        "No. of Schemes Availed",
+        "Bank Balance"]]
 
-y = df['Eligibility']
+y = df['ELIGIBILITY CRITERIA']
 
 
 KNN = KNN.fit(x,y)
@@ -74,8 +63,8 @@ test = pd.DataFrame()
 test_df = pd.read_csv('test_data.csv')
 
 test_df.replace(emp_encode, inplace=True)
-test_df['Education Level'].fillna('None', inplace=True)
-test_df.replace(edulevel_encode, inplace=True)
+test_df['Real Estate Status'].fillna('None', inplace=True)
+
 test_df.replace(region_encode, inplace=True)
 test_df.replace(own_encode, inplace=True)
 test_df.replace(loan_encode, inplace=True)
