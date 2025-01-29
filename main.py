@@ -31,7 +31,7 @@ eli_encode = {'ELIGIBILITY CRITERIA': {'YES': 1, 'NO': 2}}
 df.replace(eli_encode, inplace=True)
 
 # Option 2: Impute missing values (uncomment the following lines if you want to impute instead of dropping)
-# imputer = SimpleImputer(strategy='mean')  # Use 'mean', 'median', or 'most_frequent'
+# imputer = SimpleImputer(stra  tegy='mean')  # Use 'mean', 'median', or 'most_frequent'
 # df[['Number of Dependents', 'Medical Expenses', 'No. of Schemes Availed', 'Annual Income', 'Age', 'Bank Balance']] = imputer.fit_transform(df[['Number of Dependents', 'Medical Expenses', 'No. of Schemes Availed', 'Annual Income', 'Age', 'Bank Balance']])
 
 # TRAINING
