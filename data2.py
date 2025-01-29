@@ -1,5 +1,5 @@
 # Reload the CSV file
-file_path = 'dummy_data_updated2.csv'
+file_path = 'data2.csv'
 import pandas as pd
 
 # Load the dataset
@@ -27,6 +27,6 @@ def determine_eligibility(row):
 data['ELIGIBILITY CRITERIA'] = data.apply(determine_eligibility, axis=1)
 
 # Save the updated dataset
-updated_file_path = 'dummy_data_updated_eligibility3.csv'
+updated_file_path = 'dummy2.csv'
 data.to_csv(updated_file_path, index=False)
 

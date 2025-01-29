@@ -1,0 +1,1001 @@
+Name,Adhaar No.,PAN Number,Number of Dependents,Medical Expenses,Loan Status,No. of Schemes Availed,Annual Income,Employment Status,Age,Real Estate Status,Bank Balance,Ministry,Scheme,Marital Status
+Person_898,235096363004,ABCDE8451F,2,47546,No,1,182892,Employed,60,No Property,315191,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_320,839362157209,ABCDE9178F,5,57023,No,2,130150,Employed,38,No Property,115833,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_558,934013698658,ABCDE7880F,5,32202,Yes,0,185640,Employed,70,Own,182521,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_492,262513786205,ABCDE1309F,1,81951,No,2,254240,Self-Employed,39,Rent,338426,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_274,838718309135,ABCDE8905F,4,8590,No,0,27869,Employed,68,No Property,95035,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_389,974833253883,ABCDE4254F,3,58528,No,0,114021,Employed,43,No Property,120163,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_335,666985596541,ABCDE5637F,3,23555,No,2,30941,Employed,75,Rent,124829,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_315,556130342064,ABCDE6255F,4,86688,Yes,1,110509,Unemployed,43,Own,76758,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_584,426696599560,ABCDE1930F,2,38100,No,1,291814,Employed,65,No Property,230997,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_649,288226202115,ABCDE5224F,4,97718,No,1,83528,Self-Employed,63,Rent,78594,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_264,979400683907,ABCDE1455F,2,6117,Yes,2,293351,Employed,64,Own,361376,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_77,107563657344,ABCDE9030F,4,51083,Yes,0,160902,Unemployed,29,Rent,123626,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_509,307488757110,ABCDE8025F,0,40488,No,0,86745,Employed,34,No Property,41844,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_766,789690091556,ABCDE8099F,3,99223,No,1,62142,Employed,58,Rent,21464,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_914,139036379380,ABCDE7133F,1,73501,No,0,164616,Employed,67,Rent,220944,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_91,283509407941,ABCDE2546F,4,77217,No,2,110384,Unemployed,61,No Property,24475,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_756,951294396063,ABCDE2882F,4,89339,No,0,262700,Employed,48,Own,318335,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_445,501081144528,ABCDE3882F,5,86869,No,0,266437,Employed,20,Rent,111243,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_756,580838095656,ABCDE4760F,5,42039,No,0,39847,Self-Employed,32,Own,33156,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_340,604110507259,ABCDE6529F,0,73364,Yes,1,92257,Self-Employed,39,No Property,84218,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_172,408687579414,ABCDE6076F,4,20507,Yes,2,263915,Self-Employed,44,Own,254808,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_520,984023081528,ABCDE9304F,5,49427,No,2,256093,Self-Employed,75,Rent,167750,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_300,175571427923,ABCDE5191F,1,98348,No,0,206256,Employed,61,No Property,309495,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_746,146566183406,ABCDE7228F,0,27771,Yes,2,293759,Unemployed,34,No Property,329712,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_568,491150139772,ABCDE7209F,2,61964,Yes,0,153275,Employed,48,No Property,329407,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_278,123409830973,ABCDE1516F,2,8751,Yes,1,220091,Unemployed,61,Rent,347819,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_988,791972424863,ABCDE3758F,1,60653,Yes,2,90181,Employed,20,Rent,41660,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_713,574894558478,ABCDE6352F,1,74025,Yes,2,94251,Self-Employed,25,Rent,90872,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_622,562171098885,ABCDE3738F,0,85517,Yes,1,66701,Employed,73,Rent,45070,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_874,280261182885,ABCDE5027F,3,67969,No,0,137954,Self-Employed,24,Rent,95711,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_296,830923605513,ABCDE1922F,2,57943,No,0,86740,Employed,28,Rent,31844,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_884,540070999243,ABCDE1676F,4,59950,Yes,2,78901,Employed,27,Rent,71789,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_434,766936438828,ABCDE8169F,2,63659,Yes,0,185142,Employed,41,Rent,303280,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_361,483070613794,ABCDE9891F,3,67622,No,1,193005,Employed,33,Own,277484,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_132,888031983408,ABCDE8218F,4,32793,No,2,283315,Employed,35,Own,154421,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_382,561380437961,ABCDE2968F,3,65982,No,2,240740,Employed,33,Rent,204790,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_598,563157201677,ABCDE3661F,3,19834,Yes,2,42050,Employed,44,Rent,51623,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_572,304730377046,ABCDE5985F,2,16497,Yes,1,89325,Self-Employed,44,No Property,65425,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_892,295204137816,ABCDE4211F,4,89817,Yes,2,188092,Unemployed,65,Own,210934,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_535,173251815049,ABCDE9700F,1,13020,Yes,0,253022,Self-Employed,71,Rent,367480,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_572,282036559254,ABCDE1939F,5,46544,Yes,0,184347,Employed,51,Rent,322913,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_431,250048282737,ABCDE2191F,3,83558,Yes,2,64610,Employed,72,No Property,25105,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_383,152097224421,ABCDE1230F,0,84787,No,1,160719,Unemployed,52,Rent,366759,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_100,848407004613,ABCDE1427F,1,21438,No,2,202687,Unemployed,52,No Property,163093,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_530,905178665426,ABCDE5343F,4,51746,No,2,104762,Employed,46,Rent,138990,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_306,660804820941,ABCDE6634F,4,72411,No,1,262515,Unemployed,30,Own,323387,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_369,835745492078,ABCDE8680F,3,85851,Yes,2,218617,Self-Employed,60,Own,192140,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_395,704785115998,ABCDE5957F,5,91531,Yes,0,106454,Employed,36,No Property,51981,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_606,504388960060,ABCDE3193F,5,17752,No,1,186273,Employed,66,No Property,241737,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_145,153427841550,ABCDE4587F,0,64798,Yes,0,39007,Self-Employed,49,Rent,41018,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_286,455794648778,ABCDE3381F,4,62028,No,1,166138,Employed,54,No Property,267737,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_600,729878678506,ABCDE3308F,3,84298,No,1,272762,Employed,40,No Property,245570,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_541,308284047261,ABCDE6306F,3,54895,No,0,155642,Employed,73,No Property,336548,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_240,536529357790,ABCDE7252F,0,92602,Yes,1,228130,Employed,28,No Property,257970,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_968,835889034509,ABCDE4785F,5,72677,No,2,134789,Self-Employed,27,Rent,63134,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_455,744615517952,ABCDE2443F,2,64037,Yes,0,291695,Self-Employed,73,No Property,168801,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_926,331400967843,ABCDE5942F,4,79547,Yes,0,212867,Employed,34,Own,125773,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_198,918724931256,ABCDE1771F,5,83922,No,0,201829,Employed,33,Rent,265374,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_32,517607983565,ABCDE2664F,3,39211,No,0,276228,Employed,64,No Property,198529,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_268,894548229588,ABCDE3675F,2,5401,Yes,0,153674,Employed,71,Own,314734,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_18,952927100737,ABCDE3523F,1,96360,No,1,193445,Employed,61,Rent,204008,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_558,870468176927,ABCDE8976F,1,95900,No,0,227743,Self-Employed,71,Rent,347824,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_179,208812523466,ABCDE6055F,5,85890,No,1,68104,Employed,71,Rent,86725,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_744,534974161466,ABCDE4275F,5,60275,Yes,0,88657,Unemployed,69,No Property,86215,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_41,516780134896,ABCDE9773F,5,28347,Yes,0,38439,Employed,40,Own,133717,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_638,166850935833,ABCDE4730F,3,91064,No,1,253605,Employed,69,Own,212025,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_553,484202747342,ABCDE7781F,2,51367,Yes,1,219546,Employed,22,Rent,364018,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_884,161476178797,ABCDE6930F,4,92394,Yes,1,124588,Self-Employed,45,No Property,66554,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_223,537402216344,ABCDE5157F,3,19928,Yes,1,284461,Self-Employed,42,Rent,294233,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_808,466835210438,ABCDE8661F,0,16033,Yes,2,287835,Self-Employed,29,Own,390924,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_660,190803114147,ABCDE8438F,4,10740,No,2,127877,Employed,64,No Property,116717,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_595,613540013909,ABCDE2570F,5,35278,Yes,1,94018,Employed,49,Rent,46198,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_36,248377386989,ABCDE2532F,4,18160,No,0,289459,Unemployed,73,Rent,318951,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_10,877275927467,ABCDE3212F,5,30806,Yes,2,196276,Unemployed,61,No Property,358997,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_307,766498017750,ABCDE8024F,1,22803,Yes,2,151319,Unemployed,24,Own,391976,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_244,371979449883,ABCDE4072F,2,22704,Yes,0,273736,Employed,70,No Property,164820,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_391,813012293229,ABCDE5807F,2,42133,No,1,277734,Employed,44,No Property,313267,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_682,455395427665,ABCDE8523F,4,64835,No,1,236164,Self-Employed,67,No Property,264422,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_84,647562822153,ABCDE2154F,4,51620,No,1,29076,Unemployed,26,Own,48318,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_880,678745862515,ABCDE2677F,1,54408,No,1,100596,Employed,31,Own,60424,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_119,299595710119,ABCDE1860F,5,9738,Yes,0,286118,Employed,48,No Property,225488,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_635,803043172931,ABCDE2335F,0,72466,No,2,178099,Unemployed,70,No Property,148788,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_628,910143077986,ABCDE8693F,1,45422,Yes,0,151625,Unemployed,72,No Property,187843,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_848,965284218243,ABCDE9542F,2,22614,Yes,0,45052,Unemployed,37,Rent,91534,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_358,875195588762,ABCDE8862F,1,68254,No,2,55840,Employed,42,No Property,111024,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_716,563583736947,ABCDE8398F,2,96608,No,2,295507,Employed,48,Rent,129199,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_358,888911256577,ABCDE5827F,1,51212,No,1,160432,Employed,54,No Property,181959,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_754,131818842056,ABCDE6486F,3,23997,Yes,1,192785,Unemployed,51,Rent,248649,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_104,455252305464,ABCDE6864F,5,44681,Yes,2,277727,Employed,70,Own,211771,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_867,248055849194,ABCDE8331F,2,84033,No,1,118774,Employed,52,Own,124882,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_968,413395082822,ABCDE3573F,5,64702,Yes,1,296106,Employed,28,No Property,352277,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_110,611922942413,ABCDE4109F,3,41230,No,1,138207,Employed,61,Rent,81957,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_861,689883865942,ABCDE2855F,1,47190,Yes,0,91895,Employed,54,Rent,64096,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_472,533040800367,ABCDE7329F,3,9127,No,2,79742,Employed,23,Own,99556,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_932,583404111281,ABCDE3034F,0,55205,Yes,1,272032,Self-Employed,26,Rent,169435,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_451,785856952462,ABCDE7311F,0,95271,No,2,88440,Employed,46,No Property,73301,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_860,191533606993,ABCDE8092F,4,15413,Yes,0,78372,Employed,66,Own,141268,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_665,353678412639,ABCDE6344F,2,15524,Yes,2,256145,Employed,58,No Property,347150,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_978,503239109968,ABCDE9342F,5,39948,Yes,2,122197,Unemployed,39,Rent,24718,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_100,610411716748,ABCDE6059F,5,17201,Yes,2,28665,Employed,55,Own,106681,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_125,266113003020,ABCDE4980F,0,33629,Yes,0,197989,Employed,73,Own,108967,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_401,717405909280,ABCDE8838F,2,16803,No,0,234281,Self-Employed,39,Rent,210027,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_470,323851332590,ABCDE7513F,3,71772,Yes,1,191462,Employed,70,Rent,150822,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_778,622467127134,ABCDE6108F,1,79236,No,2,230258,Self-Employed,69,No Property,160577,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_979,785866098245,ABCDE5799F,4,85201,Yes,0,237706,Employed,32,No Property,277906,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_991,882840806120,ABCDE1490F,4,56343,Yes,2,28673,Employed,28,No Property,91653,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_976,642551693382,ABCDE8916F,3,55117,Yes,0,28572,Self-Employed,24,Own,84144,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_903,918265955544,ABCDE7363F,5,29632,No,0,35086,Self-Employed,35,Own,24046,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_410,495209363492,ABCDE6802F,3,9459,No,0,121847,Employed,18,Rent,22121,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_173,237774923508,ABCDE6854F,2,27624,Yes,1,29534,Employed,43,Own,47293,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_35,551884656541,ABCDE5523F,0,5368,No,1,245410,Employed,75,No Property,234368,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_413,289229701294,ABCDE3638F,5,62507,No,0,51400,Employed,71,No Property,79813,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_491,223074887599,ABCDE1243F,5,22722,No,0,266521,Employed,26,Own,165568,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_937,467611475392,ABCDE9890F,0,99604,No,2,84686,Employed,18,Own,66604,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_252,182603970326,ABCDE4073F,4,19194,Yes,1,263653,Employed,38,No Property,106816,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_230,645398813217,ABCDE3106F,2,34655,No,0,35620,Employed,51,No Property,77960,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_80,942793688454,ABCDE2614F,4,25527,Yes,0,142065,Employed,55,Own,116542,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_766,206941472930,ABCDE8999F,1,69821,Yes,0,63618,Self-Employed,44,Own,103891,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_47,623805327364,ABCDE6535F,2,30359,Yes,1,25337,Employed,44,Own,21569,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_845,382855542141,ABCDE7072F,2,80609,Yes,2,148889,Self-Employed,63,Own,130083,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_768,616512854436,ABCDE2244F,1,42336,No,2,177397,Employed,21,No Property,361544,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_122,850914707229,ABCDE2279F,2,49696,No,2,62795,Self-Employed,38,No Property,75417,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_613,454255470832,ABCDE9104F,5,51300,Yes,0,208954,Self-Employed,74,Rent,278613,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_309,608001253736,ABCDE1642F,4,53708,No,2,112406,Employed,33,No Property,20543,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_55,414131023150,ABCDE3325F,1,26267,No,1,38494,Unemployed,43,No Property,79889,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_334,296648475386,ABCDE4406F,0,34124,Yes,1,128565,Employed,38,Rent,145477,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_97,643262443235,ABCDE8687F,1,30234,No,2,28875,Employed,18,Own,71622,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_340,672933058627,ABCDE7654F,2,54913,No,1,234116,Self-Employed,26,Rent,294662,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_248,382553722898,ABCDE9268F,2,50316,Yes,0,189617,Employed,19,Rent,189100,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_772,573256578977,ABCDE5267F,3,79311,No,2,92463,Self-Employed,37,Rent,26511,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_285,431647951391,ABCDE1880F,1,19802,No,1,155463,Self-Employed,27,Own,259102,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_192,966141882307,ABCDE4102F,0,29150,Yes,0,253834,Employed,62,Rent,248029,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_833,948892610114,ABCDE9035F,0,8806,Yes,2,291085,Unemployed,21,Own,337896,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_30,369887527385,ABCDE9503F,1,32859,Yes,2,48127,Employed,31,Rent,44522,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_839,335170259152,ABCDE9005F,5,45531,No,2,235451,Employed,64,Own,253554,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_46,618344504065,ABCDE4508F,4,6990,No,2,268771,Employed,73,Own,368238,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_513,610464900185,ABCDE6882F,4,73451,No,1,122028,Employed,58,Rent,47152,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_770,274988106819,ABCDE1219F,1,8444,No,2,78484,Employed,33,No Property,103280,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_727,779694876182,ABCDE6989F,1,56989,No,0,127115,Self-Employed,34,Own,56676,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_415,754587731981,ABCDE3172F,2,94275,No,0,235619,Employed,41,Rent,302664,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_799,729721044589,ABCDE2679F,0,98007,No,0,89095,Employed,21,Own,125355,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_544,892628704756,ABCDE5128F,4,58263,No,0,85261,Employed,48,Rent,119481,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_386,331784473302,ABCDE6715F,0,74972,No,2,275206,Employed,52,Own,229208,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_696,730935724886,ABCDE4659F,3,54472,Yes,2,117853,Unemployed,20,Own,98543,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_485,924112330600,ABCDE1503F,5,50091,No,2,121143,Self-Employed,62,Own,36584,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_97,444224408304,ABCDE9508F,0,54090,No,1,269193,Unemployed,44,Own,159110,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_415,866959183008,ABCDE6198F,2,22100,Yes,2,82066,Self-Employed,57,Rent,35670,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_276,849907739721,ABCDE1069F,5,82284,No,1,240232,Employed,33,No Property,325517,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_98,457811352983,ABCDE7784F,5,33657,No,2,120858,Employed,19,No Property,36788,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_655,747354648665,ABCDE3615F,4,99457,Yes,1,175506,Unemployed,58,No Property,341007,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_683,795896609839,ABCDE4946F,0,20579,No,0,216283,Unemployed,37,No Property,321892,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_813,469431221085,ABCDE4627F,3,62509,No,2,54048,Unemployed,33,Own,68871,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_975,149456604993,ABCDE6591F,4,95278,Yes,0,96898,Employed,32,Own,131115,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_99,807505821485,ABCDE1428F,0,79085,Yes,0,203084,Self-Employed,62,No Property,287245,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_441,370731430206,ABCDE2328F,4,72861,No,0,136845,Employed,72,Own,99889,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_623,493676443666,ABCDE8902F,0,57082,Yes,1,84488,Unemployed,69,Own,123019,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_388,691381652975,ABCDE8814F,3,31078,No,1,129676,Employed,59,No Property,109313,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_413,239759957491,ABCDE6639F,5,58571,Yes,2,58114,Self-Employed,42,Rent,92451,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_953,161038828264,ABCDE8127F,0,7290,Yes,1,141886,Unemployed,60,No Property,126857,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_631,677394594610,ABCDE7106F,1,13470,No,1,289705,Employed,64,Own,157638,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_963,826881734713,ABCDE4335F,1,6155,Yes,2,137898,Employed,39,Rent,32199,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_322,458924069314,ABCDE8687F,0,39100,Yes,2,172531,Employed,64,Rent,212144,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_767,263657009746,ABCDE2071F,0,43669,No,0,26934,Employed,35,Own,56272,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_210,761096701130,ABCDE3989F,5,47033,Yes,0,153611,Employed,31,Rent,330426,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_41,502634130010,ABCDE9747F,5,31169,No,1,269610,Employed,52,No Property,191057,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_798,633447878412,ABCDE1670F,1,17550,No,0,111702,Self-Employed,20,No Property,107425,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_730,522744736907,ABCDE3732F,1,59294,Yes,2,63211,Employed,58,Rent,129092,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_279,552607521050,ABCDE9789F,0,51927,Yes,0,84131,Unemployed,29,Own,76292,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_811,281027865474,ABCDE2064F,5,43863,Yes,0,176431,Employed,68,No Property,372595,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_526,882830787263,ABCDE5487F,1,75894,Yes,1,68294,Employed,41,Own,88340,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_912,319862389231,ABCDE1187F,4,60904,Yes,1,186881,Employed,69,Rent,350777,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_317,115065048845,ABCDE2984F,0,30874,Yes,2,182529,Employed,73,Rent,154290,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_654,383439506964,ABCDE6117F,1,98614,Yes,1,74683,Self-Employed,61,Own,104855,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_970,567870213143,ABCDE7901F,0,60534,No,2,115307,Self-Employed,33,Rent,95779,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_507,231122886375,ABCDE2333F,2,23892,No,0,32760,Employed,66,No Property,73976,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_73,500046969075,ABCDE7451F,2,46742,No,0,200495,Employed,62,No Property,340089,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_167,806438884958,ABCDE7253F,0,69938,Yes,0,168247,Employed,46,Rent,115980,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_256,572148034980,ABCDE8844F,0,48435,Yes,2,194173,Unemployed,18,Rent,223104,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_158,431104714844,ABCDE5678F,0,9308,Yes,1,43601,Self-Employed,55,Own,144158,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_12,228488119999,ABCDE4961F,0,51095,Yes,2,60034,Employed,32,Own,60376,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_797,909475681305,ABCDE6955F,2,11132,No,2,49444,Unemployed,23,No Property,65267,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_377,692654062998,ABCDE9313F,0,94659,Yes,1,273406,Employed,70,Rent,357801,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_474,852445711072,ABCDE4413F,1,74372,No,1,294214,Self-Employed,50,Rent,206054,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_129,467755372882,ABCDE3799F,2,76663,No,1,92214,Employed,47,No Property,117483,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_331,185776240549,ABCDE7914F,4,78499,No,1,293290,Employed,32,Own,397846,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_340,936399820826,ABCDE4082F,3,68909,No,1,68000,Employed,63,No Property,111177,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_955,939982857146,ABCDE4594F,4,52471,Yes,0,166682,Employed,48,Own,205929,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_514,571631594909,ABCDE9077F,0,17653,No,2,167447,Unemployed,32,No Property,167868,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_19,445155792301,ABCDE2716F,5,88244,No,2,140832,Unemployed,62,No Property,102571,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_433,646554279587,ABCDE6517F,3,67000,Yes,1,241541,Employed,73,No Property,182744,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_785,789138107159,ABCDE1416F,0,83091,No,2,102731,Employed,75,Own,33363,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_644,337494236515,ABCDE8212F,4,81990,Yes,1,77902,Self-Employed,64,No Property,31350,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_2,335002218653,ABCDE7275F,0,18588,No,1,44444,Unemployed,47,Rent,96034,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_390,495819834835,ABCDE6743F,0,29073,No,1,68042,Employed,60,Own,148589,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_955,950091099811,ABCDE4589F,1,49211,Yes,0,71429,Unemployed,66,No Property,58061,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_890,458804504963,ABCDE5030F,4,93659,No,1,265143,Employed,71,Own,193492,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_320,152210202478,ABCDE4347F,3,58473,Yes,0,79935,Employed,70,No Property,131786,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_798,362053722641,ABCDE7677F,3,42118,Yes,2,222121,Employed,31,No Property,369666,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_84,983408378593,ABCDE8312F,4,57344,Yes,2,280024,Employed,19,Rent,299092,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_784,661289910468,ABCDE3908F,0,85714,No,1,206870,Employed,50,No Property,221462,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_452,207323224601,ABCDE3186F,1,67797,No,0,75041,Employed,52,Rent,89841,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_982,805986591664,ABCDE3799F,2,92229,Yes,0,140938,Self-Employed,70,No Property,54811,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_529,149157005093,ABCDE6476F,1,96534,No,2,97033,Employed,30,Own,99151,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_798,539349998767,ABCDE5853F,5,21710,Yes,1,90656,Self-Employed,44,No Property,117923,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_376,870120763828,ABCDE6356F,1,60233,Yes,1,150994,Employed,23,Own,211545,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_550,689052977769,ABCDE4617F,4,8333,Yes,0,33760,Employed,48,No Property,149652,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_10,144183410241,ABCDE4492F,5,41064,No,0,143212,Self-Employed,71,Rent,100470,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_26,880367418601,ABCDE9007F,4,41573,No,2,195062,Employed,19,Rent,314992,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_288,653740744096,ABCDE5414F,5,18957,Yes,1,60991,Unemployed,40,No Property,140520,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_732,286137994545,ABCDE9245F,1,35612,No,2,56923,Employed,36,Rent,131522,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_872,932035485482,ABCDE6651F,4,50286,No,0,125807,Unemployed,27,Own,139988,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_331,984489869288,ABCDE8199F,1,65796,No,1,191246,Employed,54,Own,261568,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_735,587402735951,ABCDE1077F,3,75367,No,2,160573,Employed,45,Rent,154904,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_352,955771577997,ABCDE1197F,4,74151,No,1,61275,Self-Employed,18,Own,131921,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_558,158931507299,ABCDE2449F,5,92756,No,2,144041,Employed,18,No Property,148961,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_711,159031266201,ABCDE5175F,0,45710,No,1,94485,Employed,45,Own,125190,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_941,976339677384,ABCDE6288F,2,33630,Yes,2,93124,Employed,62,Rent,31529,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_557,317175565652,ABCDE7977F,5,69674,No,2,142016,Employed,73,Own,127448,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_328,186980632076,ABCDE9112F,0,36913,No,0,105983,Self-Employed,72,Rent,85594,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_727,122156839595,ABCDE9982F,2,97149,No,1,86612,Employed,34,Own,60843,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_878,138227891779,ABCDE4762F,0,43870,Yes,1,141857,Employed,44,No Property,91762,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_708,450864726487,ABCDE6461F,4,86978,Yes,2,227474,Employed,36,Own,129019,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_872,486298189217,ABCDE3707F,0,39109,Yes,0,236696,Self-Employed,40,Rent,164173,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_310,680690895502,ABCDE1438F,5,23879,No,0,251801,Unemployed,36,No Property,397522,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_1000,965322152711,ABCDE4257F,1,40768,Yes,2,284754,Employed,41,No Property,182531,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_947,312134118297,ABCDE5407F,5,40048,No,2,131664,Self-Employed,32,No Property,27155,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_701,905193869664,ABCDE7727F,0,42141,Yes,0,224946,Employed,34,No Property,175352,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_801,725476673134,ABCDE7861F,2,98061,Yes,1,222155,Employed,61,No Property,318406,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_765,758696025710,ABCDE9466F,3,76862,No,2,214002,Unemployed,72,No Property,371606,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_611,789846671610,ABCDE8923F,1,69481,No,1,196287,Employed,34,Own,393498,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_429,893487880073,ABCDE6959F,1,26022,No,1,93140,Employed,70,No Property,26503,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_333,185049326089,ABCDE1115F,0,43061,No,1,142918,Self-Employed,47,Rent,120832,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_746,465588997012,ABCDE2591F,0,14517,Yes,0,135443,Employed,67,Rent,113580,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_410,350283751879,ABCDE7216F,2,69802,No,2,31790,Employed,23,No Property,110646,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_662,678627827102,ABCDE6459F,0,50093,No,2,57910,Employed,61,Own,125749,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_397,832478197779,ABCDE1789F,2,8887,Yes,0,152568,Employed,54,Own,371454,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_226,518568650408,ABCDE7700F,5,7556,Yes,1,274785,Employed,52,No Property,342908,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_691,532918749060,ABCDE3029F,4,50008,No,0,154353,Employed,26,No Property,276846,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_400,235739771595,ABCDE3647F,5,62217,Yes,2,211363,Self-Employed,73,No Property,379860,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_608,689310254248,ABCDE4203F,0,39474,Yes,1,186883,Employed,23,No Property,120931,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_28,471046222867,ABCDE3426F,5,58964,Yes,0,266425,Self-Employed,40,Rent,203500,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_777,546653834284,ABCDE8276F,2,26766,No,1,192378,Unemployed,18,Own,243324,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_533,777618921401,ABCDE2959F,2,94029,Yes,1,263309,Employed,46,Rent,134548,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_840,400945858157,ABCDE2056F,1,82690,No,1,92100,Unemployed,18,Own,45006,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_440,666608297505,ABCDE7914F,5,26841,Yes,2,298024,Employed,34,No Property,181414,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_567,526819563052,ABCDE8778F,2,39910,No,0,230348,Self-Employed,39,Rent,150851,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_50,299314399597,ABCDE1968F,0,23286,No,2,77571,Employed,39,Own,122430,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_180,545328910210,ABCDE5427F,0,82700,No,0,165862,Employed,45,No Property,170234,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_353,188222518047,ABCDE9248F,1,71430,Yes,2,44042,Unemployed,66,No Property,105148,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_503,980882833384,ABCDE3586F,2,63260,Yes,2,236646,Self-Employed,42,No Property,291306,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_952,252570403055,ABCDE4048F,0,14393,Yes,1,185747,Unemployed,48,No Property,249688,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_697,665134042767,ABCDE2485F,3,8612,No,0,169335,Employed,41,Own,355993,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_800,174663813874,ABCDE3826F,3,67454,Yes,0,75159,Self-Employed,57,Own,89654,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_193,777266909247,ABCDE2220F,0,20525,No,1,173838,Self-Employed,35,Rent,162592,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_8,999745062033,ABCDE9363F,3,62817,No,2,157181,Employed,73,Rent,206107,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_602,382644409981,ABCDE5196F,0,32316,Yes,1,127606,Employed,54,Rent,105231,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_941,764144945572,ABCDE6180F,2,81927,No,2,225171,Employed,27,Own,191796,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_792,199753615265,ABCDE9924F,0,60371,No,1,166289,Employed,38,Own,125339,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_485,941983081610,ABCDE7961F,2,84003,No,0,76511,Employed,63,Rent,60490,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_96,372642182304,ABCDE6237F,5,66618,Yes,2,43842,Employed,23,Own,108760,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_734,207176931432,ABCDE1439F,5,19909,Yes,2,172103,Self-Employed,23,Own,328408,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_340,648199478532,ABCDE6263F,5,62431,No,0,42294,Employed,35,Rent,127744,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_108,951438454743,ABCDE5466F,3,18642,Yes,0,39689,Employed,66,No Property,66914,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_332,784876183211,ABCDE1005F,3,20340,Yes,1,78767,Self-Employed,21,No Property,69881,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_826,462295769820,ABCDE6991F,3,46570,No,2,152794,Employed,65,Rent,315923,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_348,338571801220,ABCDE4924F,1,10476,No,0,221024,Self-Employed,22,No Property,151528,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_567,221187089633,ABCDE2195F,2,38648,Yes,0,55740,Employed,39,Rent,75953,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_925,946899069832,ABCDE4643F,2,17100,Yes,0,250929,Self-Employed,18,Own,205869,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_694,857638799822,ABCDE2748F,4,7789,Yes,0,263679,Self-Employed,32,Own,391741,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_579,867993339876,ABCDE3856F,3,31008,No,2,45761,Employed,48,No Property,133555,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_877,888149289085,ABCDE3204F,4,14178,Yes,1,111543,Unemployed,64,Own,80465,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_290,168850541424,ABCDE6962F,5,91883,Yes,0,257217,Unemployed,74,Rent,238387,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_476,476847283745,ABCDE9435F,5,97909,No,0,118609,Employed,66,Rent,65262,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_274,520769094071,ABCDE2251F,0,39690,No,1,190240,Employed,68,Own,260309,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_681,878217320041,ABCDE7239F,3,18859,No,0,205634,Self-Employed,61,Own,288113,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_175,870324122406,ABCDE4594F,2,60797,No,2,81432,Self-Employed,64,Own,26442,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_648,296429795493,ABCDE3043F,0,16224,No,1,275257,Employed,39,No Property,282416,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_538,401136942254,ABCDE8254F,1,99344,Yes,2,30803,Employed,66,Own,89291,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_882,732751697323,ABCDE4148F,5,83833,No,2,295793,Employed,51,Rent,316606,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_535,160771229733,ABCDE3209F,0,14773,Yes,0,34908,Employed,68,No Property,80465,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_74,250307585124,ABCDE7098F,4,70658,Yes,0,97656,Employed,29,No Property,33694,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_724,286438000816,ABCDE6815F,1,40431,No,1,62798,Employed,66,No Property,146579,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_117,860525427978,ABCDE5413F,3,27701,Yes,2,293082,Self-Employed,45,Rent,285456,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_862,300952364504,ABCDE3617F,0,92043,Yes,2,274764,Employed,32,Rent,190090,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_640,537042616905,ABCDE1205F,5,23866,No,1,84408,Employed,63,Own,120021,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_578,563313183174,ABCDE8497F,2,90175,Yes,1,126775,Employed,36,No Property,96305,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_526,782574600235,ABCDE2072F,0,47483,Yes,1,298304,Employed,64,Rent,184075,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_556,594574084311,ABCDE9147F,3,19410,Yes,2,146071,Employed,68,No Property,80145,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_303,960749090430,ABCDE5489F,0,58492,Yes,1,180745,Employed,70,Rent,109999,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_506,242459046590,ABCDE1107F,0,61587,Yes,2,296302,Unemployed,74,No Property,240071,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_683,117164647293,ABCDE2499F,5,75545,Yes,1,299554,Employed,25,Own,237100,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_420,560823515041,ABCDE3214F,5,75629,Yes,1,183432,Unemployed,35,No Property,264065,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_422,773351935327,ABCDE7748F,2,81952,No,1,293900,Employed,57,Rent,338731,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_290,730888770044,ABCDE9429F,3,98046,Yes,1,231942,Employed,37,Own,265197,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_454,309355946511,ABCDE4629F,1,76745,No,1,197295,Employed,63,No Property,374664,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_228,788361016944,ABCDE5778F,5,62154,No,1,255365,Unemployed,25,Own,126594,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_612,437920657108,ABCDE6024F,5,31834,No,1,277475,Employed,19,Rent,234157,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_500,849939013452,ABCDE7062F,1,83559,Yes,2,67706,Employed,58,No Property,23803,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_916,713137582950,ABCDE2376F,2,68757,No,2,114325,Self-Employed,71,Own,84337,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_734,231904309591,ABCDE9914F,2,79746,No,2,250378,Employed,31,Own,122607,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_685,451604933840,ABCDE4259F,5,33065,No,1,238184,Employed,39,Rent,333104,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_887,265620725131,ABCDE8114F,0,90650,Yes,2,171504,Employed,41,Own,348111,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_828,597541765209,ABCDE2676F,5,98441,No,1,263709,Self-Employed,64,No Property,352747,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_677,603833369871,ABCDE5027F,2,45105,No,2,235011,Unemployed,43,No Property,165155,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_223,649903667343,ABCDE9285F,4,71325,Yes,0,29210,Unemployed,37,No Property,45654,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_473,868103057859,ABCDE8091F,2,30709,Yes,2,251829,Self-Employed,69,Own,252817,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_311,383513897204,ABCDE1108F,3,35243,Yes,2,213745,Employed,31,Own,185627,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_877,363317192445,ABCDE1647F,1,46644,No,0,289591,Employed,39,No Property,230188,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_883,106881767931,ABCDE1504F,1,78160,Yes,1,213164,Employed,47,Own,272768,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_526,499046928360,ABCDE2554F,5,42325,Yes,2,72086,Employed,19,No Property,135809,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_555,506779022840,ABCDE3424F,0,72053,No,2,96935,Self-Employed,19,Own,131260,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_388,979370088022,ABCDE2450F,5,85062,No,0,139418,Self-Employed,37,No Property,140281,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_827,281513422677,ABCDE6743F,3,24200,Yes,1,126307,Self-Employed,63,Rent,61062,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_853,395357589126,ABCDE5729F,0,31519,Yes,1,72855,Employed,32,Own,85191,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_939,207006834964,ABCDE6379F,2,37354,No,2,94174,Employed,43,No Property,62614,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_420,938114189775,ABCDE9617F,4,59015,Yes,1,190040,Unemployed,75,No Property,334288,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_119,328556029740,ABCDE3893F,2,47372,Yes,2,92019,Unemployed,71,No Property,132804,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_287,652367494002,ABCDE2246F,3,91298,No,1,102429,Employed,47,Own,37987,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_748,120753254789,ABCDE3981F,1,11613,No,2,123242,Self-Employed,48,Own,149752,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_371,898282038270,ABCDE1702F,3,32345,No,2,152965,Employed,47,Own,199284,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_575,971685777345,ABCDE2163F,4,73063,No,1,149694,Self-Employed,63,Rent,142727,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_211,722019227914,ABCDE6279F,4,67219,No,0,90603,Employed,42,Own,67024,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_829,727309068587,ABCDE6191F,3,33549,Yes,1,278947,Employed,35,Rent,218096,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_809,919403794464,ABCDE2706F,2,14323,Yes,2,258407,Unemployed,38,Rent,391526,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_804,665015180746,ABCDE6515F,5,83570,No,2,54106,Employed,46,Own,87502,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_142,832903741480,ABCDE5850F,0,70370,No,2,101385,Employed,38,Own,47108,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_109,387476645138,ABCDE9522F,1,73179,Yes,2,132407,Unemployed,41,No Property,79615,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_267,214877976889,ABCDE9673F,3,57284,No,2,40635,Self-Employed,47,Own,109096,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_178,148562699153,ABCDE1627F,3,31174,No,1,70605,Unemployed,73,No Property,111340,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_145,650211688119,ABCDE1121F,2,25155,No,0,276288,Employed,47,Rent,295705,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_107,351510184888,ABCDE1178F,4,17219,Yes,2,44475,Self-Employed,43,No Property,90735,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_513,164109649236,ABCDE4113F,1,71600,Yes,1,219125,Employed,39,Own,136578,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_835,801105292112,ABCDE2899F,3,75287,Yes,1,158544,Employed,39,Rent,296312,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_951,507472840396,ABCDE3940F,0,89762,Yes,1,197936,Employed,20,Rent,111575,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_87,630252826862,ABCDE4188F,3,81073,No,0,234904,Employed,56,No Property,124843,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_861,603131437249,ABCDE4440F,0,38232,Yes,2,270572,Unemployed,53,Rent,375513,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_31,754494961420,ABCDE3491F,5,63103,Yes,0,290696,Employed,39,Rent,369182,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_270,418634514484,ABCDE6849F,2,63192,No,1,112062,Self-Employed,70,Own,141196,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_14,365307914253,ABCDE9986F,1,34942,No,2,211581,Self-Employed,49,No Property,113729,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_631,605545521197,ABCDE2582F,1,92007,No,1,250991,Unemployed,28,Rent,206926,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_559,767805302414,ABCDE1199F,1,17336,No,2,25910,Unemployed,37,Own,108308,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_352,315225701839,ABCDE6603F,2,90333,Yes,0,36291,Employed,42,Own,31382,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_337,343954692372,ABCDE1716F,1,77395,Yes,2,256830,Employed,46,Rent,395240,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_702,871410798820,ABCDE9395F,1,85257,Yes,1,48615,Unemployed,50,No Property,87250,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_823,187208584974,ABCDE8103F,5,75774,Yes,1,177892,Employed,47,No Property,138487,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_496,737636015911,ABCDE7781F,1,79825,Yes,0,60530,Unemployed,31,Rent,66458,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_649,411967785792,ABCDE2755F,5,42617,Yes,1,248286,Employed,29,No Property,142588,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_482,254134556172,ABCDE9955F,2,72337,No,1,95709,Employed,21,Own,125693,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_84,198877393360,ABCDE4912F,2,7935,No,2,213097,Employed,63,Rent,356987,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_225,912681154721,ABCDE7586F,5,22289,Yes,1,266472,Self-Employed,62,No Property,256592,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_225,440620129574,ABCDE9933F,4,38759,No,1,250041,Self-Employed,50,Own,138227,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_584,369028812320,ABCDE9443F,2,68360,Yes,1,81305,Employed,63,No Property,31393,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_238,646898221453,ABCDE2837F,4,51204,Yes,0,182855,Employed,72,Own,116778,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_139,934581454940,ABCDE4784F,5,17330,Yes,0,43118,Self-Employed,25,Rent,130045,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_40,749722140419,ABCDE7683F,3,41848,Yes,2,160402,Employed,19,Own,360356,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_126,532848240856,ABCDE3245F,3,35054,No,2,245174,Employed,31,Own,394154,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_638,773349440871,ABCDE3862F,3,25391,No,1,96083,Employed,53,No Property,33804,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_488,501405762967,ABCDE9977F,0,55811,No,2,193154,Employed,31,Own,385334,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_164,685900896802,ABCDE6432F,5,87552,No,0,33649,Unemployed,60,Own,97621,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_485,565637914606,ABCDE5766F,1,89822,No,2,55266,Employed,52,Rent,38498,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_242,235456376660,ABCDE5256F,0,39753,No,2,84842,Employed,37,Own,32694,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_821,268646504761,ABCDE6443F,4,79747,No,2,97058,Employed,28,Own,61277,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_747,777632685291,ABCDE6283F,5,61833,No,2,132782,Employed,52,Own,35536,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_197,264727553490,ABCDE6192F,4,63796,Yes,1,40190,Employed,54,No Property,108875,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_79,193260660352,ABCDE6281F,1,24609,No,1,99060,Employed,48,No Property,53326,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_469,935204303522,ABCDE3792F,0,61566,Yes,2,84517,Unemployed,18,Rent,115021,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_524,506016451861,ABCDE9852F,5,13581,Yes,1,156109,Employed,60,Rent,367579,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_236,542266212048,ABCDE1886F,5,72604,No,1,275170,Employed,72,Own,350852,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_74,591599638904,ABCDE8263F,2,40243,No,0,155215,Employed,70,Own,315201,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_118,686666951684,ABCDE3772F,5,28075,Yes,1,139900,Employed,62,Rent,34073,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_969,319745027819,ABCDE9368F,3,81563,Yes,1,257465,Employed,34,Own,210824,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_239,937074900150,ABCDE1412F,1,52523,Yes,1,186112,Self-Employed,65,No Property,216190,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_255,121351655429,ABCDE7590F,3,49850,No,0,62826,Employed,63,Own,50142,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_842,976142362822,ABCDE7629F,3,12192,No,1,30412,Employed,59,No Property,46259,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_646,527533368350,ABCDE6594F,0,32066,Yes,1,150112,Employed,72,Rent,205619,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_704,664604932269,ABCDE3322F,3,92319,No,1,233490,Employed,42,No Property,348867,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_620,840832899705,ABCDE4411F,2,77792,Yes,1,29376,Unemployed,48,No Property,118305,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_308,730225058295,ABCDE5780F,1,21769,Yes,0,92125,Unemployed,58,Own,35098,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_459,321842481172,ABCDE8436F,5,69669,Yes,2,68175,Self-Employed,75,No Property,101137,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_134,897494940907,ABCDE1965F,1,33273,No,1,291801,Employed,66,No Property,251406,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_111,909777592017,ABCDE4473F,5,50151,Yes,2,165740,Employed,34,No Property,208886,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_755,742084262667,ABCDE7349F,0,24384,No,0,259883,Employed,52,Own,140684,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_191,754582087380,ABCDE9532F,5,95085,No,2,84961,Self-Employed,73,Own,71596,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_242,476900881708,ABCDE8180F,1,73450,Yes,1,71130,Unemployed,29,Rent,40281,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_954,794306218983,ABCDE6151F,0,33328,Yes,1,96830,Self-Employed,50,No Property,136995,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_417,596125935882,ABCDE1445F,3,62981,Yes,2,85929,Self-Employed,18,No Property,96125,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_450,727070727716,ABCDE9881F,4,20623,No,0,253431,Employed,71,No Property,327181,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_201,832027644028,ABCDE8733F,5,59648,Yes,2,47733,Employed,18,Own,58546,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_892,464227633571,ABCDE6970F,2,60095,Yes,1,133315,Self-Employed,38,No Property,81925,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_198,908841279400,ABCDE3559F,3,33391,Yes,2,47739,Unemployed,73,No Property,99737,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_163,266872432179,ABCDE8598F,2,13206,Yes,0,45180,Employed,29,No Property,24961,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_815,109724655552,ABCDE3131F,1,41293,Yes,1,202635,Employed,47,Own,114983,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_18,667179052266,ABCDE8202F,5,12341,Yes,0,130983,Employed,34,Own,117680,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_50,129833214254,ABCDE5613F,4,81302,No,1,274300,Employed,61,No Property,257032,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_562,457717455914,ABCDE9675F,2,99506,No,0,73501,Employed,19,No Property,83378,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_201,705020793341,ABCDE6781F,5,48390,No,1,144376,Employed,71,No Property,39964,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_432,199602039451,ABCDE9057F,3,94319,No,2,223046,Employed,59,No Property,165544,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_693,302526960187,ABCDE7760F,4,47842,No,2,121397,Employed,68,Rent,56046,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_91,589087430505,ABCDE1944F,3,67257,No,2,154016,Self-Employed,19,No Property,235864,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_90,675067213440,ABCDE5166F,1,73512,No,1,50250,Unemployed,43,Rent,131306,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_741,597600105224,ABCDE5956F,0,13246,Yes,2,195650,Employed,70,No Property,399750,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_643,723718398020,ABCDE7819F,3,45757,No,1,58116,Employed,22,Rent,149454,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_256,280542560291,ABCDE9488F,1,91582,Yes,2,25655,Employed,47,Own,65198,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_25,965479861695,ABCDE9178F,0,36595,No,1,191267,Employed,62,Own,136672,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_833,915426859021,ABCDE4182F,1,14774,Yes,2,235803,Employed,29,Rent,200025,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_113,700612077881,ABCDE2969F,2,60272,Yes,0,277673,Self-Employed,31,Own,303788,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_422,455772506736,ABCDE6500F,0,79569,No,2,194152,Unemployed,33,No Property,317806,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_605,131104396257,ABCDE9142F,5,83327,No,0,204520,Employed,29,Own,293204,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_389,940508572729,ABCDE6317F,2,46750,Yes,1,295652,Employed,37,No Property,220911,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_589,913767789191,ABCDE8799F,5,59085,No,0,259021,Self-Employed,39,Own,168732,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_282,440666403146,ABCDE4138F,3,83267,Yes,2,214640,Unemployed,43,Own,227696,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_297,231614541179,ABCDE5474F,2,47543,No,1,64824,Employed,58,Own,22136,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_675,376200769812,ABCDE6780F,1,22946,No,0,46025,Unemployed,63,Rent,103921,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_374,133798732446,ABCDE7581F,3,48140,No,0,43231,Unemployed,20,Own,71305,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_555,683816301158,ABCDE7740F,2,93259,Yes,1,34957,Employed,31,No Property,129570,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_245,980158555406,ABCDE2008F,2,24352,Yes,2,297175,Unemployed,23,Own,318028,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_98,831655304082,ABCDE2786F,5,21979,Yes,2,61102,Self-Employed,32,Own,105651,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_528,857565797806,ABCDE8898F,5,70599,No,2,126508,Employed,68,Own,97554,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_190,807304623506,ABCDE8507F,0,47171,Yes,0,196788,Employed,37,Rent,125869,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_537,215257107715,ABCDE5264F,1,21587,Yes,2,280143,Employed,37,No Property,159181,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_707,641003591507,ABCDE3112F,2,13538,No,2,175598,Unemployed,23,No Property,269108,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_828,579742051747,ABCDE2742F,0,37587,Yes,0,295360,Employed,67,Own,286712,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_161,626339511756,ABCDE5171F,0,60287,Yes,0,277056,Self-Employed,44,No Property,314408,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_800,891146461330,ABCDE1389F,2,79541,No,2,154682,Unemployed,41,Rent,261066,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_46,944533290011,ABCDE9353F,0,47697,Yes,1,220524,Unemployed,28,No Property,285426,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_347,125171815306,ABCDE2948F,0,30291,No,0,210263,Unemployed,53,Rent,156038,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_715,363297801572,ABCDE4569F,0,85432,No,1,242002,Employed,32,Rent,290447,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_172,525584900613,ABCDE1786F,1,91102,No,2,42880,Employed,44,No Property,111410,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_780,800700804085,ABCDE8665F,3,52056,No,2,74796,Self-Employed,39,Own,43061,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_415,528490950594,ABCDE7403F,4,89268,No,2,183964,Unemployed,55,No Property,106108,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_573,250971461810,ABCDE4918F,0,12867,Yes,2,259385,Self-Employed,41,No Property,127948,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_297,525953215631,ABCDE2575F,0,32656,Yes,2,256466,Self-Employed,19,No Property,313846,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_103,876205053148,ABCDE6957F,0,30794,No,2,145698,Employed,46,No Property,61611,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_650,812979073915,ABCDE4748F,2,7882,No,0,176640,Employed,68,Own,319522,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_746,348784028962,ABCDE2483F,3,34144,Yes,1,169416,Unemployed,34,No Property,246216,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_517,131881943046,ABCDE7508F,2,39117,Yes,1,262131,Employed,35,No Property,396381,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_280,927299255491,ABCDE6985F,3,82860,No,1,114068,Employed,51,No Property,26771,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_235,714201653003,ABCDE1257F,2,31076,No,2,297484,Employed,62,No Property,381002,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_8,784022512632,ABCDE6961F,2,75919,No,1,224552,Employed,34,No Property,357894,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_813,699582723427,ABCDE3333F,2,62650,Yes,2,227448,Employed,30,No Property,176747,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_826,970167199736,ABCDE8106F,4,62628,No,0,131561,Employed,45,Own,140373,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_431,877657616590,ABCDE7759F,3,52065,No,0,178677,Employed,19,No Property,260892,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_772,575628855159,ABCDE4832F,4,57613,Yes,1,95520,Employed,33,No Property,125890,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_55,809696586765,ABCDE4660F,0,69070,Yes,0,119752,Self-Employed,26,Rent,48194,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_16,925475079370,ABCDE8957F,1,7183,Yes,2,116241,Employed,44,Rent,65338,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_913,397360310347,ABCDE6369F,1,98040,No,1,125571,Employed,43,Rent,41387,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_335,741924962233,ABCDE4305F,3,20285,No,0,63550,Employed,49,Rent,148950,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_806,884056772154,ABCDE7071F,0,55119,No,1,152839,Employed,33,No Property,229486,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_305,582578551376,ABCDE5438F,3,70089,No,0,34188,Unemployed,56,Rent,62399,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_189,869350938415,ABCDE5473F,1,43285,No,0,69762,Self-Employed,31,Rent,74654,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_160,982064495614,ABCDE8705F,1,81992,No,1,114322,Employed,51,Own,94387,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_534,491391722586,ABCDE9173F,1,24520,No,0,203563,Employed,37,Rent,169937,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_993,698946670497,ABCDE8148F,2,14571,Yes,2,81265,Employed,29,Rent,106106,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_190,595527360838,ABCDE7773F,2,7096,Yes,0,107653,Unemployed,75,Own,72268,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_658,791038512845,ABCDE9891F,0,39406,No,2,203608,Employed,18,No Property,303019,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_689,263587115437,ABCDE3996F,3,88997,No,0,254686,Employed,67,No Property,122292,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_923,261118543327,ABCDE4173F,0,57363,Yes,0,136108,Employed,72,Rent,148410,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_99,299520067652,ABCDE6938F,4,37706,Yes,0,200074,Unemployed,42,No Property,349722,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_826,404005624978,ABCDE6906F,4,60129,No,0,69726,Employed,51,Own,82008,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_211,634540016239,ABCDE4378F,0,33593,No,1,163530,Unemployed,22,No Property,396657,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_441,466313266216,ABCDE3459F,1,26698,Yes,1,39788,Unemployed,55,Own,105930,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_987,531660596265,ABCDE1296F,0,52239,Yes,2,140201,Unemployed,24,Rent,130714,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_886,719261534887,ABCDE8768F,2,31497,Yes,2,271608,Self-Employed,49,No Property,223576,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_928,819978221884,ABCDE2842F,0,90275,Yes,2,204325,Self-Employed,64,Rent,222817,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_461,491109164054,ABCDE6289F,1,44163,Yes,1,229299,Employed,66,Rent,170761,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_287,693734095122,ABCDE5659F,0,70368,No,0,160894,Unemployed,24,Rent,249917,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_615,440737404475,ABCDE5262F,0,24186,Yes,0,293927,Self-Employed,48,No Property,307387,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_499,613016460043,ABCDE3715F,2,88325,Yes,0,62581,Employed,19,No Property,144945,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_216,748299654047,ABCDE6565F,0,95616,No,2,161537,Employed,25,Own,120719,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_936,544351262208,ABCDE4584F,5,14221,No,0,144582,Employed,51,Own,71527,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_390,218920061987,ABCDE4104F,3,89962,No,0,42356,Unemployed,63,No Property,69086,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_551,753220535442,ABCDE4832F,0,81066,No,0,289662,Employed,54,Own,200031,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_946,641848653509,ABCDE5924F,4,49799,No,2,193289,Employed,71,No Property,157504,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_424,738482206213,ABCDE8086F,5,62248,Yes,2,126312,Employed,30,Own,91054,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_532,841931060352,ABCDE3085F,1,60661,No,0,282317,Self-Employed,32,Rent,216090,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_192,201851465020,ABCDE4211F,1,62070,No,2,39940,Self-Employed,29,Own,53340,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_859,740711034508,ABCDE6044F,1,80839,Yes,0,262062,Employed,38,No Property,254212,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_214,305534853043,ABCDE6443F,0,43205,No,2,131561,Employed,42,No Property,96014,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_955,148699258121,ABCDE1995F,4,78738,Yes,1,253419,Employed,18,Rent,113745,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_207,539437621130,ABCDE7544F,0,28188,Yes,0,271326,Employed,40,No Property,143081,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_449,814216756006,ABCDE5007F,0,33492,Yes,1,67459,Employed,27,No Property,118096,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_37,969229269443,ABCDE9306F,5,83032,No,2,126560,Employed,57,Rent,67845,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_468,941814379810,ABCDE4667F,4,79606,No,1,68156,Employed,63,Own,50782,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_789,727704459785,ABCDE5839F,4,61190,Yes,0,154464,Employed,45,Own,157686,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_856,925228176012,ABCDE5768F,4,10185,Yes,0,160094,Self-Employed,41,No Property,113827,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_773,693797132706,ABCDE3695F,0,62959,No,0,148898,Employed,40,Own,72834,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_186,193222231686,ABCDE6375F,2,21767,No,0,264633,Employed,68,No Property,350081,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_65,115767672434,ABCDE8751F,5,39539,Yes,2,49799,Employed,27,Own,105094,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_359,909063381923,ABCDE3370F,1,27272,No,2,290401,Self-Employed,58,Own,220534,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_311,936506187226,ABCDE1060F,5,14765,No,1,238772,Employed,41,Rent,121243,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_359,434661086696,ABCDE3338F,4,61376,Yes,1,261334,Employed,21,No Property,390361,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_905,639405844635,ABCDE3134F,0,23439,No,0,254892,Employed,47,No Property,122835,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_698,722777181920,ABCDE6639F,0,44637,Yes,0,153145,Employed,72,No Property,274030,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_881,242081495231,ABCDE2679F,3,52487,No,0,151598,Unemployed,32,Own,109102,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_721,336003697268,ABCDE4155F,2,80944,Yes,2,291332,Unemployed,27,No Property,213537,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_197,708998041239,ABCDE1649F,4,34442,Yes,2,118944,Self-Employed,39,No Property,100395,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_840,824835463744,ABCDE9884F,4,7455,Yes,0,180872,Unemployed,61,No Property,151746,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_464,473110695338,ABCDE9481F,1,15729,No,1,205140,Employed,73,Own,372091,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_281,534417582332,ABCDE5726F,4,79041,Yes,2,79606,Employed,27,No Property,24510,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_736,370292157292,ABCDE5072F,4,95372,No,0,183580,Employed,70,No Property,374899,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_985,603741712101,ABCDE7395F,2,70160,No,2,49355,Employed,70,Own,105857,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_112,927639878624,ABCDE9936F,3,86825,No,0,131225,Unemployed,72,Rent,64210,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_854,334318146028,ABCDE7808F,5,55264,Yes,2,152943,Employed,26,Own,202962,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_427,506087179118,ABCDE3632F,3,15703,No,2,154484,Self-Employed,21,Rent,139401,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_48,563432364442,ABCDE4396F,1,85508,Yes,2,26810,Employed,72,No Property,70290,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_637,659661295355,ABCDE4101F,3,57699,Yes,0,162338,Self-Employed,20,No Property,116529,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_529,354814429952,ABCDE5849F,5,34705,No,1,187289,Unemployed,34,Own,327083,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_977,447088936864,ABCDE1702F,0,55058,Yes,0,81497,Employed,64,Own,112367,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_768,624942727558,ABCDE3755F,1,92724,No,2,164841,Employed,24,No Property,371684,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_46,304932851858,ABCDE5862F,5,98939,No,0,296157,Self-Employed,57,Rent,320603,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_822,999779752778,ABCDE1827F,4,9682,No,2,222159,Employed,59,Own,271072,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_167,126903943703,ABCDE6870F,3,32419,No,2,257940,Self-Employed,72,Rent,339720,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_535,480141926936,ABCDE4383F,1,32176,Yes,1,176619,Employed,24,No Property,285152,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_76,721856204472,ABCDE2428F,2,20968,Yes,2,42737,Employed,56,No Property,23905,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_875,860710530770,ABCDE1647F,5,52294,Yes,1,155810,Self-Employed,35,Rent,194156,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_979,517196867129,ABCDE8798F,5,30046,Yes,0,246594,Employed,43,No Property,316186,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_392,325130349037,ABCDE2568F,1,89354,Yes,1,207228,Self-Employed,48,Own,217050,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_721,954595437286,ABCDE8505F,5,86441,No,1,192281,Self-Employed,56,Own,219244,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_609,478294735046,ABCDE1643F,5,16503,No,0,210475,Employed,54,Own,300927,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_445,912513772024,ABCDE8433F,1,40030,No,1,270582,Employed,58,Rent,236006,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_322,800525154041,ABCDE6347F,1,29370,Yes,1,48664,Employed,31,No Property,63421,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_111,325921076205,ABCDE5353F,2,63835,Yes,0,176082,Employed,41,Rent,331560,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_221,702395533175,ABCDE2385F,1,77874,No,2,70289,Employed,65,No Property,141869,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_836,751680433175,ABCDE7927F,2,80532,Yes,1,49289,Self-Employed,50,Rent,54666,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_186,762538839386,ABCDE4188F,5,38659,Yes,2,271943,Employed,31,No Property,100997,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_60,524636423915,ABCDE9637F,1,27560,No,2,79156,Employed,42,No Property,66110,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_358,949181404215,ABCDE3065F,3,17420,Yes,1,207926,Employed,63,Own,280732,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_256,901996900762,ABCDE7380F,2,95420,Yes,1,126037,Self-Employed,48,Own,105916,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_511,715714936943,ABCDE3590F,5,84691,No,0,77554,Employed,39,Own,68505,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_281,179280724924,ABCDE2460F,2,90398,No,0,134834,Unemployed,31,Own,77650,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_345,761188440027,ABCDE7891F,1,85122,Yes,0,246776,Employed,29,Own,138891,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_849,756756111719,ABCDE4670F,3,29602,Yes,0,132237,Self-Employed,64,Own,103098,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_972,252175785987,ABCDE1455F,4,83766,No,0,120789,Employed,53,Rent,63764,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_675,847599773150,ABCDE7623F,2,46413,No,0,195368,Employed,26,No Property,387679,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_18,790085088186,ABCDE2583F,2,80871,Yes,2,113208,Employed,34,No Property,98257,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_559,192327447785,ABCDE3377F,2,34547,Yes,2,122792,Employed,75,Own,46036,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_462,454554237539,ABCDE8853F,3,94584,Yes,1,69264,Employed,24,Own,93385,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_277,391310829615,ABCDE3365F,0,42559,Yes,2,202759,Employed,75,Own,126392,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_675,816112382085,ABCDE1997F,3,51605,Yes,2,153340,Employed,40,Rent,254831,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_233,784852202268,ABCDE7365F,3,81269,No,1,148915,Employed,19,Rent,51564,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_250,114819447747,ABCDE5055F,4,88198,Yes,1,70184,Employed,58,No Property,117217,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_755,625276228477,ABCDE2808F,3,60140,Yes,1,283007,Self-Employed,44,Rent,384972,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_561,700669606291,ABCDE2209F,3,43921,No,1,97707,Unemployed,53,Own,77648,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_457,768153799604,ABCDE4767F,4,24941,Yes,2,167373,Employed,26,No Property,316289,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_701,277714011148,ABCDE3584F,2,39757,Yes,0,165384,Employed,33,No Property,230247,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_964,871826595947,ABCDE9542F,1,50138,Yes,1,167655,Employed,22,No Property,217319,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_574,528869844980,ABCDE7552F,5,43927,Yes,0,135880,Employed,52,No Property,121937,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_76,454039736377,ABCDE1606F,0,49270,Yes,2,64027,Self-Employed,55,No Property,107509,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_565,234470551097,ABCDE6549F,3,92647,No,1,205419,Employed,43,No Property,132994,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_781,450013844174,ABCDE7343F,0,70701,Yes,2,124804,Self-Employed,36,Own,101608,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_322,712428413460,ABCDE9328F,3,16806,No,2,74533,Employed,57,Own,116871,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_60,157310309172,ABCDE7333F,5,78181,No,2,206013,Employed,48,No Property,343338,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_711,453516045656,ABCDE1314F,0,88122,No,1,263016,Self-Employed,66,Own,316873,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_156,362314176082,ABCDE8627F,1,37936,Yes,2,232853,Employed,40,Rent,394565,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_225,548451079252,ABCDE2985F,5,21157,No,0,250851,Employed,74,Rent,209654,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_757,983199414766,ABCDE1603F,4,97953,Yes,0,54208,Employed,40,No Property,120160,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_349,733094434518,ABCDE4415F,2,64204,Yes,2,250484,Employed,30,Own,331877,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_481,367110348760,ABCDE3621F,2,20869,Yes,0,66731,Employed,39,Rent,132590,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_758,405840890108,ABCDE3403F,3,56610,No,2,278205,Unemployed,22,No Property,293765,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_267,673616496824,ABCDE6385F,4,90312,Yes,2,51935,Employed,34,Own,54703,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_694,987071228720,ABCDE1006F,1,26726,No,0,181811,Unemployed,56,No Property,215100,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_983,437828759954,ABCDE2219F,4,58673,No,0,56843,Employed,37,Rent,138038,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_169,799816702364,ABCDE9272F,0,98037,Yes,1,269327,Self-Employed,42,No Property,382755,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_614,764277530539,ABCDE6206F,5,92074,No,2,128145,Employed,61,Rent,148669,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_349,672027835039,ABCDE6869F,1,81344,No,2,75058,Employed,55,No Property,146011,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_270,363106383510,ABCDE7337F,5,24090,Yes,0,201970,Employed,57,Own,223937,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_484,882991715998,ABCDE8549F,0,52316,Yes,2,114734,Employed,55,Own,52552,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_447,205580350435,ABCDE3898F,0,26267,Yes,0,76222,Unemployed,66,No Property,51244,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_512,707154825784,ABCDE7877F,4,9238,Yes,0,39647,Employed,70,Own,63328,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_811,471533901213,ABCDE1720F,3,57922,No,2,206077,Employed,61,Rent,275323,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_813,154832829891,ABCDE8343F,5,50778,No,0,152656,Employed,67,Own,152386,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_648,696313456932,ABCDE6872F,2,46079,Yes,2,40047,Unemployed,38,No Property,106932,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_525,290277079092,ABCDE5430F,5,40641,No,0,296649,Employed,30,No Property,273015,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_328,390305665361,ABCDE6857F,1,67160,No,0,293677,Unemployed,66,Own,148429,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_483,277892081472,ABCDE5961F,2,74956,Yes,1,124346,Self-Employed,26,Rent,64214,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_848,653490821015,ABCDE7916F,0,66466,Yes,2,259549,Self-Employed,46,Rent,375304,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_866,427901763007,ABCDE1805F,5,17110,Yes,1,73620,Unemployed,37,Own,118652,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_834,803585226577,ABCDE1435F,4,10460,Yes,1,102379,Unemployed,18,No Property,111894,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_430,741222256452,ABCDE8868F,5,31208,Yes,2,174002,Employed,55,No Property,213767,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_750,964018397143,ABCDE3366F,5,5704,Yes,0,250354,Employed,45,Own,308675,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_999,607985099954,ABCDE3113F,2,48238,Yes,2,144821,Employed,28,Own,144564,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_449,261274676957,ABCDE4970F,5,30941,Yes,2,134418,Employed,69,Own,37227,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_418,411425703164,ABCDE8712F,1,16214,No,0,129907,Employed,33,Rent,36411,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_675,436349783198,ABCDE6730F,2,40123,Yes,2,191977,Self-Employed,36,No Property,180893,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_407,658155323315,ABCDE6977F,0,84701,Yes,0,258736,Self-Employed,47,No Property,179110,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_70,673039496577,ABCDE5004F,5,74061,Yes,0,125312,Self-Employed,40,Own,144689,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_58,547503682985,ABCDE9109F,1,42973,No,0,154074,Employed,18,Own,379949,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_944,164740505462,ABCDE6865F,3,67931,Yes,1,293815,Employed,43,Rent,359265,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_839,441394891343,ABCDE2120F,4,61212,No,0,276112,Employed,18,Own,155731,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_174,464003849189,ABCDE1519F,5,91166,Yes,1,196022,Employed,46,No Property,390302,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_513,301042957232,ABCDE8153F,2,50094,Yes,2,74246,Self-Employed,50,Rent,148750,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_262,956594876882,ABCDE3504F,2,98752,Yes,2,118212,Unemployed,57,No Property,76418,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_161,630939533338,ABCDE3135F,2,72770,Yes,2,253541,Employed,40,No Property,234986,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_417,287966628321,ABCDE7257F,1,15137,Yes,1,169542,Employed,66,No Property,285410,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_711,490468030997,ABCDE9929F,4,9803,No,0,212573,Employed,72,Own,192573,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_472,410055313146,ABCDE5169F,2,13933,No,1,286023,Self-Employed,65,Rent,128355,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_582,376395080413,ABCDE7460F,3,95853,Yes,2,28259,Employed,57,No Property,106639,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_469,816643234776,ABCDE8133F,4,84666,No,1,199400,Employed,21,Rent,329023,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_56,928470022799,ABCDE4508F,0,48552,No,2,192691,Self-Employed,62,Own,359724,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_659,869295434108,ABCDE1355F,2,60325,Yes,2,143623,Unemployed,59,Own,55212,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_256,349314246756,ABCDE2624F,4,56419,Yes,1,279547,Employed,72,Own,335683,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_862,971862551698,ABCDE9887F,5,27813,Yes,0,197109,Employed,64,Rent,140575,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_599,523961668633,ABCDE8612F,0,60981,No,0,277864,Employed,48,No Property,287895,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_83,810214157464,ABCDE1873F,0,54589,Yes,1,156722,Employed,47,Own,172126,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_33,803025986692,ABCDE4238F,0,75721,Yes,0,185931,Employed,39,No Property,120837,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_93,819964411364,ABCDE9640F,5,91573,No,1,82786,Employed,23,Rent,92796,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_79,119623321192,ABCDE4800F,2,89263,Yes,2,31203,Employed,71,Rent,72005,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_44,792376396447,ABCDE1720F,1,54398,No,1,135983,Employed,39,Own,149009,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_395,157649807159,ABCDE6016F,1,58646,Yes,0,224941,Employed,27,Own,235189,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_913,351773007687,ABCDE9531F,4,22626,No,2,55839,Employed,36,No Property,67821,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_948,277043790804,ABCDE1265F,5,79652,No,0,269365,Employed,42,Own,321859,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_214,585012603374,ABCDE7313F,0,64275,No,2,140767,Employed,29,No Property,74243,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_683,949588633265,ABCDE1345F,5,93373,No,0,38582,Employed,32,Rent,135455,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_353,152566404099,ABCDE5701F,0,63557,No,2,38902,Employed,41,Own,53262,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_313,670871408766,ABCDE5373F,4,32629,Yes,0,49645,Unemployed,27,Own,91964,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_983,714977228414,ABCDE9020F,5,14408,Yes,2,244143,Unemployed,53,No Property,310414,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_405,343060589434,ABCDE5887F,0,75110,No,0,133916,Self-Employed,55,Own,58957,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_889,416817071518,ABCDE3018F,3,85166,No,2,88823,Employed,44,No Property,121152,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_829,219904940189,ABCDE7273F,4,22223,Yes,0,239166,Unemployed,26,No Property,238283,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_954,738276237202,ABCDE2505F,1,19599,No,1,254180,Self-Employed,27,Own,340787,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_351,833611949140,ABCDE2477F,3,51430,No,0,63381,Unemployed,56,Rent,63434,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_951,403532235171,ABCDE7140F,1,95074,Yes,0,292327,Employed,34,Own,346617,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_643,303820344783,ABCDE8933F,1,64193,No,2,230366,Employed,51,Rent,260030,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_188,370792332056,ABCDE5725F,1,85175,Yes,0,175542,Unemployed,41,Own,346912,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_56,643089261913,ABCDE9276F,5,15805,No,1,166476,Self-Employed,21,Rent,332188,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_88,416044693753,ABCDE8304F,0,82316,No,1,66733,Employed,51,Rent,62241,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_473,900126194847,ABCDE5758F,1,24870,Yes,1,88073,Employed,33,Rent,47904,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_916,301277199464,ABCDE5531F,5,72415,Yes,1,70411,Self-Employed,50,Own,64108,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_977,474518142889,ABCDE8272F,0,95718,Yes,0,129500,Unemployed,26,No Property,50414,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_533,686125814495,ABCDE4024F,2,87324,Yes,1,63059,Unemployed,32,Own,88414,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_941,378333742282,ABCDE3799F,4,73470,No,2,48728,Employed,30,Rent,99318,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_12,711929542491,ABCDE7795F,5,61537,No,2,171574,Self-Employed,73,No Property,346290,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_666,131291460008,ABCDE1083F,5,89239,No,1,98392,Unemployed,45,No Property,129188,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_247,979136489675,ABCDE2819F,5,39751,No,1,154126,Unemployed,41,Rent,149015,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_616,636272620074,ABCDE3187F,3,78393,Yes,1,156372,Employed,72,Own,346216,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_247,989359620131,ABCDE4301F,5,83363,No,2,107264,Unemployed,48,Rent,77385,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_389,657975606849,ABCDE8391F,2,39516,No,1,62848,Self-Employed,35,Rent,121093,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_783,607470533918,ABCDE1769F,1,41513,No,2,281952,Unemployed,24,Rent,299396,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_855,167888165335,ABCDE5972F,2,47898,Yes,2,263644,Employed,51,Own,257202,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_595,183541748074,ABCDE7695F,2,42161,No,0,70022,Employed,34,No Property,22594,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_364,144533836198,ABCDE6874F,1,8705,No,0,60538,Self-Employed,49,Rent,62035,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_69,130428125167,ABCDE6699F,1,98841,Yes,0,39010,Employed,60,No Property,106678,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_75,932707143032,ABCDE1254F,0,59397,No,2,90099,Self-Employed,57,No Property,47200,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_963,241571634609,ABCDE1195F,0,35114,Yes,1,135118,Employed,44,No Property,125880,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_166,938238454935,ABCDE1528F,5,89813,Yes,0,217288,Employed,23,No Property,186823,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_98,792348138083,ABCDE2145F,0,21227,No,0,169040,Employed,75,Rent,396161,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_683,858525628690,ABCDE6436F,5,41359,No,1,115722,Unemployed,73,Own,127362,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_45,775032299909,ABCDE5383F,5,8102,No,2,101489,Employed,54,No Property,41728,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_969,310253914285,ABCDE3272F,0,50023,Yes,1,243257,Employed,66,Own,161311,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_39,965171192516,ABCDE1358F,1,81223,Yes,0,66292,Self-Employed,48,Rent,39242,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_744,269472125819,ABCDE1301F,1,70983,No,1,222544,Employed,70,Rent,379906,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_189,693418834006,ABCDE5766F,3,58380,Yes,2,173956,Employed,53,Own,224618,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_756,942146650295,ABCDE1136F,1,72225,No,0,256025,Self-Employed,24,No Property,307316,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_47,313761051634,ABCDE5052F,5,48559,Yes,2,36456,Self-Employed,46,Rent,136899,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_483,144160028001,ABCDE4113F,0,63429,Yes,0,137156,Self-Employed,65,Own,101637,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_158,319222857384,ABCDE6279F,1,14436,No,1,45661,Employed,49,Rent,66640,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_959,331360318469,ABCDE1826F,4,83044,No,1,255923,Self-Employed,30,No Property,369111,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_604,503197706202,ABCDE3691F,2,41828,Yes,1,145010,Unemployed,20,Own,117686,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_453,952424632012,ABCDE4105F,0,34715,Yes,0,149763,Self-Employed,21,Own,143113,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_709,399098369637,ABCDE6250F,4,66334,No,0,148310,Self-Employed,73,Own,74125,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_654,776010989427,ABCDE3748F,2,44302,No,2,28919,Employed,66,Rent,35693,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_375,317348460718,ABCDE1205F,5,15018,Yes,0,80854,Self-Employed,53,Rent,27211,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_124,428074319179,ABCDE9364F,1,96792,Yes,2,277158,Employed,57,No Property,162849,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_582,816835842454,ABCDE4765F,0,69290,No,0,150991,Employed,48,No Property,259158,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_876,519065970582,ABCDE7860F,4,66462,No,0,221885,Employed,46,Rent,238929,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_432,752314737917,ABCDE6483F,1,78683,No,2,59482,Self-Employed,52,Own,47855,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_420,764581973140,ABCDE1912F,2,78408,Yes,0,202587,Unemployed,27,Own,296757,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_840,317303468044,ABCDE8596F,0,24698,Yes,0,56512,Self-Employed,42,Rent,106699,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_396,625672662123,ABCDE6242F,1,22222,No,1,127232,Self-Employed,22,Own,130397,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_759,120982290723,ABCDE3854F,5,42735,No,2,26254,Self-Employed,61,No Property,85981,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_268,236157303068,ABCDE5700F,2,53858,No,1,112652,Employed,32,Own,149122,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_702,818397872920,ABCDE5754F,1,11069,Yes,1,177253,Employed,55,No Property,182465,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_256,336908770569,ABCDE5364F,2,7144,Yes,0,41324,Unemployed,73,Rent,90400,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_790,609396278164,ABCDE7341F,4,75558,Yes,1,156529,Employed,28,Rent,351715,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_673,211083342577,ABCDE1527F,1,20553,Yes,2,126236,Employed,32,Own,33662,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_577,153691255377,ABCDE7766F,4,66650,Yes,0,81464,Employed,36,Own,52859,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_683,619967035221,ABCDE5991F,4,38174,No,1,155051,Unemployed,68,Own,108366,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_599,389160320094,ABCDE2792F,5,58297,No,2,261755,Unemployed,21,Rent,271867,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_13,476370951844,ABCDE3844F,4,70899,Yes,2,108393,Employed,55,Rent,125762,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_579,262139663776,ABCDE5090F,0,56783,No,0,47014,Self-Employed,75,No Property,94543,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_767,684401104771,ABCDE2931F,0,92014,No,0,252455,Self-Employed,58,Rent,108560,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_648,827279023112,ABCDE1327F,4,62739,Yes,0,65234,Employed,50,No Property,149871,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_126,128843714708,ABCDE3348F,2,99076,No,1,64811,Self-Employed,61,Own,98695,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_185,453373604075,ABCDE6900F,1,89931,Yes,2,167373,Employed,34,Rent,116978,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_771,863703507693,ABCDE8542F,3,19817,No,2,296059,Employed,21,Own,200743,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_707,144355468371,ABCDE3889F,3,20941,No,2,40787,Unemployed,75,No Property,47096,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_964,496825699118,ABCDE1521F,4,5605,Yes,0,83947,Self-Employed,45,Rent,117775,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_375,352763019199,ABCDE3593F,0,97244,Yes,0,57681,Employed,70,Rent,100187,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_634,410969792170,ABCDE9743F,5,64982,No,2,41009,Employed,74,No Property,26813,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_542,733396937975,ABCDE4310F,0,25607,Yes,0,30515,Self-Employed,19,Rent,95555,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_320,123105874078,ABCDE4312F,3,39304,No,2,255794,Self-Employed,52,Rent,246750,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_413,293387921739,ABCDE7169F,3,55390,Yes,2,221024,Employed,63,Own,279991,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_424,161667054576,ABCDE2500F,0,81539,No,1,131522,Unemployed,69,Own,23048,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_385,309204034546,ABCDE8907F,4,57713,Yes,1,284748,Employed,34,Own,261817,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_216,910096826248,ABCDE4207F,3,96788,No,1,155034,Self-Employed,34,Own,206248,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_648,359141054014,ABCDE7309F,2,83910,Yes,2,51261,Employed,57,Rent,148104,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_956,974648321873,ABCDE4395F,4,77701,Yes,1,103409,Unemployed,55,No Property,91137,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_423,191802896351,ABCDE4188F,5,46732,No,0,169423,Employed,68,No Property,308423,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_442,900020339487,ABCDE4351F,4,19030,Yes,2,29251,Unemployed,45,No Property,60553,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_37,543723012746,ABCDE5291F,2,64392,Yes,0,86152,Employed,25,No Property,97521,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_699,682767839068,ABCDE8198F,1,13407,Yes,2,131554,Self-Employed,37,No Property,39983,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_200,559461934352,ABCDE3072F,4,12440,No,2,133570,Employed,70,No Property,28010,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_593,324677361296,ABCDE2307F,0,27770,No,0,119522,Employed,72,No Property,73618,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_235,859768519301,ABCDE8957F,4,55486,Yes,1,67359,Employed,61,Rent,28290,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_349,999623155472,ABCDE7326F,3,81624,No,2,85294,Employed,37,Rent,81112,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_458,912102394315,ABCDE4999F,2,25169,Yes,1,104154,Employed,54,No Property,84495,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_462,873263064088,ABCDE9263F,5,90767,No,2,288185,Self-Employed,67,Own,383969,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_126,176483084973,ABCDE3007F,4,84789,Yes,1,219579,Self-Employed,24,No Property,223553,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_36,608629019547,ABCDE1462F,4,94766,Yes,0,284088,Self-Employed,65,No Property,142926,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_229,999616490750,ABCDE5374F,4,46271,No,0,221963,Self-Employed,26,No Property,318548,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_862,994338234183,ABCDE2683F,3,78369,Yes,2,169419,Self-Employed,33,Rent,364780,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_999,776344687980,ABCDE1059F,2,88740,No,1,187531,Unemployed,60,Rent,292159,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_814,289800149239,ABCDE7957F,1,74143,No,1,274559,Unemployed,54,Rent,118185,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_459,911039124069,ABCDE2089F,0,64477,No,2,285065,Employed,64,Rent,221837,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_153,474527519183,ABCDE4843F,1,8953,Yes,1,96488,Self-Employed,27,Own,121197,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_771,931640186944,ABCDE3121F,2,13826,Yes,1,209225,Employed,27,No Property,101251,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_881,392979462749,ABCDE6107F,4,51270,No,0,83605,Employed,67,No Property,146415,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_682,324036113889,ABCDE9159F,0,29736,Yes,0,238598,Employed,20,Own,192432,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_609,261222179214,ABCDE7130F,1,5332,Yes,1,33815,Unemployed,71,No Property,133948,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_840,155265665443,ABCDE5977F,3,36863,Yes,2,101216,Employed,59,No Property,104958,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_968,849969348779,ABCDE8728F,0,78912,No,2,162950,Employed,37,No Property,361058,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_135,430167664853,ABCDE2652F,5,64868,No,2,243230,Employed,70,Own,151133,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_217,906189324706,ABCDE3157F,5,84709,Yes,0,190133,Self-Employed,18,No Property,136799,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_852,897953123930,ABCDE4261F,0,81564,Yes,2,63414,Employed,56,Own,104714,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_120,760831256781,ABCDE9586F,5,50328,No,0,218484,Employed,33,Own,125376,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_196,459196168277,ABCDE7688F,3,49395,Yes,1,275081,Employed,33,No Property,321547,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_784,950696081662,ABCDE7175F,3,10648,No,0,235599,Employed,45,Own,266449,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_527,339704298431,ABCDE3322F,0,92129,Yes,2,84436,Unemployed,53,Rent,77570,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_725,781024105498,ABCDE3926F,1,49246,No,1,51391,Employed,59,No Property,49819,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_610,480960545429,ABCDE1430F,1,49127,Yes,1,79659,Employed,24,Own,122151,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_773,651523642407,ABCDE5112F,0,66530,No,2,139973,Self-Employed,45,Own,73082,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_542,217138131099,ABCDE8767F,5,87653,No,1,270168,Employed,27,Own,201742,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_831,193167948634,ABCDE3402F,0,85806,No,1,239799,Unemployed,50,No Property,181358,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_710,405631687721,ABCDE3169F,0,53177,No,0,92800,Self-Employed,32,Own,106926,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_659,171935256629,ABCDE1595F,4,95783,No,1,253428,Unemployed,35,Own,247511,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_190,306496237268,ABCDE8903F,5,17238,No,0,42870,Unemployed,29,No Property,148213,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_370,259329825590,ABCDE5591F,0,95264,No,0,105285,Employed,26,Own,111726,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_803,569851355928,ABCDE3283F,5,42843,No,0,235979,Self-Employed,67,No Property,235265,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_766,865255226512,ABCDE8770F,5,64364,No,1,44280,Unemployed,72,No Property,54588,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_591,206463682110,ABCDE2565F,5,84547,Yes,0,30118,Unemployed,41,Rent,28255,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_307,659771558112,ABCDE3381F,4,81380,Yes,2,58507,Unemployed,75,Rent,124540,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_776,761784374412,ABCDE8868F,1,80470,No,1,247001,Employed,63,Rent,131318,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_2,380246529435,ABCDE1184F,1,48817,Yes,2,164430,Self-Employed,62,No Property,108518,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_18,257449286086,ABCDE5424F,1,24184,No,1,110970,Employed,53,No Property,31267,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_792,969037936812,ABCDE9130F,3,45609,No,2,177257,Employed,71,Rent,232348,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_486,747954845272,ABCDE5574F,1,37468,No,0,146492,Employed,45,No Property,100458,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_941,503239092712,ABCDE9560F,2,37697,No,0,262030,Unemployed,44,Own,145843,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_103,750483134231,ABCDE9157F,5,17501,No,0,287272,Unemployed,39,Own,398035,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_688,738832707396,ABCDE8440F,3,81559,No,0,227604,Employed,53,Rent,156611,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_985,787743670654,ABCDE7194F,2,68218,No,2,181033,Employed,26,No Property,392555,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_708,808573560448,ABCDE2692F,1,12353,No,2,193004,Employed,65,Own,172363,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_838,607740850441,ABCDE9369F,3,71575,No,0,177606,Employed,18,Rent,113541,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_435,225461918212,ABCDE5253F,0,7408,No,0,142704,Unemployed,60,No Property,59015,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_782,858537188740,ABCDE2423F,0,33687,No,2,157067,Employed,27,No Property,331753,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_682,948231240561,ABCDE2368F,1,47491,No,2,52334,Self-Employed,48,No Property,58238,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_685,106055492360,ABCDE2244F,1,75107,No,0,143141,Employed,57,Rent,110167,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_186,884857533901,ABCDE3695F,2,78049,No,0,57158,Employed,37,Rent,21171,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_831,160529620058,ABCDE4245F,5,53173,Yes,0,167218,Employed,35,Rent,251747,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_347,855633787502,ABCDE3358F,0,85903,Yes,1,192080,Employed,47,No Property,399766,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_689,695731637432,ABCDE3553F,1,23158,No,2,217035,Employed,49,Own,107061,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_246,910936552388,ABCDE8471F,5,12204,Yes,2,152490,Employed,48,No Property,206758,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_542,262189952067,ABCDE7830F,3,35300,No,2,111709,Self-Employed,35,Own,123942,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_422,702023371433,ABCDE1078F,5,28794,No,2,264736,Employed,51,Own,302101,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_584,236419020158,ABCDE1444F,5,44937,No,1,208127,Employed,69,No Property,282089,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_104,443226798682,ABCDE1739F,5,96276,Yes,0,50625,Employed,53,No Property,136216,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_768,506651882164,ABCDE3560F,5,12247,No,2,150171,Self-Employed,54,Own,162035,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_764,893961961006,ABCDE6090F,2,16090,No,0,41044,Employed,45,Own,41474,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_145,342728402041,ABCDE4886F,1,32840,Yes,0,196194,Self-Employed,18,Rent,109417,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_392,144505442820,ABCDE2966F,3,59677,No,1,276916,Unemployed,40,No Property,270026,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_875,618479776208,ABCDE8875F,0,18518,No,0,164631,Self-Employed,72,No Property,307553,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_781,873252720938,ABCDE4606F,2,57541,No,2,111870,Employed,48,No Property,112987,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_156,113210471372,ABCDE6164F,5,79273,Yes,1,129547,Unemployed,69,Own,109280,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_287,193508369546,ABCDE8593F,5,61635,Yes,0,213030,Self-Employed,39,Rent,152864,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_180,371436881348,ABCDE4369F,3,9877,Yes,2,45001,Self-Employed,64,Own,120942,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_989,575246339406,ABCDE2369F,5,65913,Yes,0,64924,Self-Employed,40,Own,49421,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_612,334102604961,ABCDE1745F,3,53901,No,1,131097,Employed,57,No Property,50178,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_789,665104733311,ABCDE9449F,1,16107,No,1,240347,Employed,69,Own,202856,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_328,432962494501,ABCDE3810F,1,94226,Yes,0,247151,Self-Employed,72,No Property,114038,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_971,331455896615,ABCDE6057F,2,83817,Yes,0,90013,Employed,64,No Property,83510,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_236,168785199901,ABCDE7979F,0,54875,No,0,143575,Employed,34,Rent,50677,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_222,937590323169,ABCDE1964F,4,19412,Yes,1,202643,Unemployed,24,Rent,227193,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_148,404179455951,ABCDE8583F,2,32647,Yes,1,160049,Employed,47,Own,230716,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_33,509127396577,ABCDE6414F,3,32408,No,2,206362,Employed,33,Rent,338549,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_297,457285779902,ABCDE4431F,4,55646,Yes,2,136948,Employed,70,Rent,143656,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_529,741581537228,ABCDE8221F,3,43265,Yes,2,282463,Employed,61,Rent,256753,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_609,987629411178,ABCDE1325F,1,59891,Yes,0,70629,Unemployed,61,Own,147015,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_833,659124673744,ABCDE5953F,1,48431,Yes,1,144636,Self-Employed,54,Own,130248,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_993,479093168540,ABCDE7287F,5,97260,Yes,0,239924,Employed,39,Rent,264304,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_509,671018979359,ABCDE3228F,5,44310,Yes,1,51573,Unemployed,27,Own,67256,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_981,576499278745,ABCDE4378F,0,98737,Yes,2,148582,Employed,49,No Property,98097,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_911,608391840354,ABCDE6504F,1,61787,No,2,118562,Employed,63,Own,112265,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_839,242937744165,ABCDE8019F,5,41155,No,2,83834,Unemployed,19,Rent,148760,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_431,452340409605,ABCDE9591F,1,9342,No,2,62207,Employed,75,Rent,87172,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_263,339853313579,ABCDE9339F,5,34273,No,1,192137,Self-Employed,34,Own,314656,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_141,740465328775,ABCDE6029F,4,34821,No,2,204559,Employed,36,No Property,347821,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_381,808978575497,ABCDE5304F,3,19570,Yes,1,281538,Employed,60,Own,229948,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_760,198406270692,ABCDE1864F,5,33343,No,1,104317,Self-Employed,75,No Property,115848,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_112,490639363911,ABCDE7238F,4,95466,No,0,106409,Employed,31,Own,83044,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_198,470501817018,ABCDE6477F,3,13014,Yes,1,223954,Employed,39,Rent,239812,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_828,656492786051,ABCDE4408F,3,5410,No,2,246237,Employed,63,Own,151643,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_469,805813091563,ABCDE5307F,5,84473,Yes,0,68954,Employed,67,No Property,39005,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_455,636162025157,ABCDE2750F,3,44399,Yes,1,207337,Employed,33,No Property,207904,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_132,469242573009,ABCDE7700F,0,96903,Yes,1,58449,Employed,61,Rent,44530,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_744,913846809972,ABCDE1112F,4,19856,Yes,2,89678,Employed,27,Rent,23352,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_487,587545116821,ABCDE9019F,2,7345,No,1,260801,Self-Employed,27,Rent,292636,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_706,395871713211,ABCDE3408F,5,51938,No,0,293197,Self-Employed,45,Rent,117739,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_388,749460303624,ABCDE7735F,3,96462,No,2,128344,Employed,19,Rent,142847,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_335,747448951953,ABCDE3568F,4,26555,Yes,1,223799,Employed,49,No Property,137430,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_521,828724427908,ABCDE7694F,2,68886,No,0,294807,Employed,33,Own,385060,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_763,711404084660,ABCDE5887F,1,77825,Yes,2,58644,Unemployed,35,Rent,66551,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_631,262861915562,ABCDE5795F,0,79174,Yes,1,59510,Employed,38,Own,141812,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_315,811268339661,ABCDE6759F,3,95530,No,2,67245,Unemployed,32,Rent,32776,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_931,198799427335,ABCDE9574F,0,38684,Yes,0,136047,Self-Employed,70,Own,47451,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_589,937265077984,ABCDE1409F,0,29854,Yes,1,145333,Employed,33,No Property,118201,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_675,321077055250,ABCDE4645F,4,65460,Yes,0,285965,Unemployed,22,No Property,340727,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_914,620945679634,ABCDE2727F,5,92333,No,0,241180,Employed,75,Rent,202265,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_199,381847736533,ABCDE5250F,2,81656,Yes,2,148217,Employed,52,Own,114764,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_897,126007168385,ABCDE7614F,2,53298,No,0,136786,Employed,65,No Property,137795,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_270,992234524504,ABCDE4198F,0,59574,Yes,2,63556,Self-Employed,26,No Property,34664,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_818,534667088188,ABCDE9421F,1,48432,Yes,2,269145,Unemployed,35,Rent,311555,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_611,367131244047,ABCDE4828F,4,99980,Yes,1,101095,Employed,48,No Property,131034,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_821,164657193590,ABCDE9300F,2,40374,No,2,117666,Employed,26,No Property,55790,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_52,113712539144,ABCDE4801F,4,98299,Yes,1,290470,Self-Employed,70,Rent,230966,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_791,669137147699,ABCDE1084F,1,26503,Yes,2,210602,Employed,45,Own,199640,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_863,887900639695,ABCDE6346F,2,79336,No,1,252619,Employed,58,Rent,252165,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_191,556878682722,ABCDE3233F,3,83920,Yes,2,121208,Unemployed,42,No Property,83998,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_389,112643719485,ABCDE5154F,0,29572,Yes,0,139947,Employed,51,Own,96554,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_529,678197295933,ABCDE5983F,5,90283,No,2,296627,Employed,36,Rent,316807,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_750,931524716883,ABCDE1326F,5,10839,Yes,1,113363,Unemployed,40,No Property,108700,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_759,729359692465,ABCDE6157F,3,55022,Yes,2,48021,Self-Employed,44,Own,46186,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_173,951268592112,ABCDE5930F,3,22910,Yes,2,61769,Employed,42,No Property,102906,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_251,638579655360,ABCDE3752F,0,36553,No,0,73079,Unemployed,58,No Property,55220,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_860,334231024198,ABCDE6624F,3,67939,Yes,2,82740,Unemployed,56,No Property,83793,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_227,276022404907,ABCDE7058F,5,32422,Yes,1,104907,Self-Employed,45,Own,129311,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_782,300044451880,ABCDE6112F,5,10590,No,2,282568,Self-Employed,42,Own,207461,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_907,268666519367,ABCDE7682F,4,29615,Yes,2,190883,Self-Employed,21,Own,161317,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_249,950103276232,ABCDE1869F,0,72616,No,0,57481,Employed,26,Rent,149946,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_459,480954988994,ABCDE6263F,0,56314,No,0,164606,Employed,37,Rent,277169,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_1,334522660801,ABCDE4308F,4,71288,Yes,1,62328,Employed,39,Own,48615,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_896,510521522529,ABCDE2703F,5,28244,No,0,64873,Employed,24,Rent,114599,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_12,399593863070,ABCDE6653F,4,28456,No,0,142087,Employed,35,Own,125414,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_74,238709892840,ABCDE1453F,3,83298,Yes,1,216018,Unemployed,73,No Property,155257,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_133,910997313781,ABCDE1712F,2,36480,Yes,1,273676,Employed,65,No Property,336944,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_765,668568736931,ABCDE4244F,0,95908,No,2,27746,Employed,48,Own,47077,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_408,950350648368,ABCDE3724F,4,99522,Yes,2,70417,Employed,56,No Property,66066,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_170,676566355243,ABCDE9764F,1,92516,Yes,0,150827,Self-Employed,66,Rent,127183,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_736,219262909270,ABCDE6919F,1,17173,Yes,0,105603,Unemployed,49,Own,66860,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_961,258325139107,ABCDE7579F,0,43422,Yes,2,89911,Employed,50,Rent,145835,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_237,505288854236,ABCDE9630F,5,32085,No,0,136860,Employed,54,Rent,72803,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_421,779746743845,ABCDE1963F,4,22093,No,0,229612,Unemployed,54,Own,115221,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_296,328647643852,ABCDE1895F,3,75986,Yes,1,136512,Employed,71,No Property,116178,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_269,732855957013,ABCDE2363F,2,62990,Yes,0,235842,Employed,55,No Property,267130,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_963,700131995271,ABCDE3701F,5,94263,Yes,0,218097,Self-Employed,46,Rent,345408,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_522,428641382496,ABCDE1229F,4,86287,No,1,142773,Unemployed,43,Own,41880,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_737,739847506308,ABCDE9220F,5,50167,Yes,0,79057,Employed,42,No Property,26628,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_358,550013870801,ABCDE8392F,0,79216,Yes,2,63837,Employed,20,Own,57755,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_579,199064989522,ABCDE6684F,4,37949,Yes,0,187939,Employed,37,Own,175459,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_123,267226812257,ABCDE4342F,2,16589,Yes,0,232060,Employed,23,Own,145421,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_648,232797850589,ABCDE3248F,0,80173,No,1,173631,Employed,36,No Property,137883,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_220,161032639390,ABCDE6047F,2,39388,No,1,69880,Employed,26,Rent,20399,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_337,292164931411,ABCDE5645F,1,83537,No,0,120624,Unemployed,32,Own,120708,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_740,720793682337,ABCDE2361F,4,50614,Yes,2,108352,Employed,31,No Property,78858,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_794,758728031121,ABCDE2745F,1,19751,No,2,115044,Employed,65,Own,120764,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_82,822237215390,ABCDE2869F,0,85930,No,0,25805,Employed,22,Own,34774,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_822,418536897581,ABCDE2374F,5,64706,No,2,34106,Self-Employed,57,No Property,142055,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_831,865479406537,ABCDE9610F,1,17057,No,2,49250,Unemployed,73,Own,27246,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_719,232129847116,ABCDE7498F,4,20456,No,0,242318,Employed,75,Own,268321,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_198,110965506086,ABCDE7326F,3,95591,No,0,108454,Unemployed,70,No Property,20056,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_66,940003784375,ABCDE5321F,4,27185,No,0,86095,Unemployed,56,No Property,72831,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_930,454019588297,ABCDE7796F,5,48200,Yes,1,262158,Unemployed,21,Rent,157560,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_6,122382948367,ABCDE1075F,1,98309,Yes,1,93542,Self-Employed,46,No Property,30116,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_902,750487025210,ABCDE9638F,5,66517,No,0,201259,Self-Employed,57,No Property,240044,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_322,664012855762,ABCDE5233F,5,7270,Yes,2,115784,Employed,57,No Property,87340,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_223,987679529934,ABCDE3891F,5,17320,No,2,253834,Employed,48,No Property,195834,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_605,850550931914,ABCDE1036F,1,60975,Yes,2,58690,Unemployed,45,Rent,108745,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_786,569795752009,ABCDE3769F,2,73023,Yes,0,84023,Employed,61,No Property,48267,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_823,889844659439,ABCDE9609F,3,8657,Yes,0,136988,Unemployed,62,Rent,40634,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_672,626447546249,ABCDE1518F,1,9493,Yes,0,159725,Employed,43,Own,332422,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_227,836500349533,ABCDE2133F,4,99494,No,1,49374,Employed,65,No Property,25489,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_834,828272567644,ABCDE6605F,2,89027,Yes,0,31594,Employed,71,No Property,79857,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_396,796339742896,ABCDE9123F,0,9617,No,2,109996,Self-Employed,22,No Property,41569,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_938,138875133045,ABCDE7036F,3,32675,Yes,0,88283,Employed,64,No Property,87222,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_737,228827914138,ABCDE5678F,5,49914,Yes,1,57894,Unemployed,44,No Property,22596,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_524,456044809083,ABCDE3224F,5,92494,No,0,187248,Unemployed,44,Rent,180887,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_515,819628811801,ABCDE6310F,1,61671,No,0,145923,Unemployed,44,No Property,49319,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_554,321575084898,ABCDE9421F,3,41011,Yes,2,178440,Employed,25,Own,140530,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_387,622930534752,ABCDE3201F,0,8018,Yes,1,170031,Self-Employed,30,No Property,361805,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_643,931416075562,ABCDE9834F,0,46659,No,0,115409,Employed,24,No Property,32766,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_876,777142555508,ABCDE5546F,4,62495,No,0,33800,Self-Employed,22,Own,127117,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_215,224771798303,ABCDE6876F,2,64082,No,1,89289,Unemployed,19,Own,126463,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_192,616121775852,ABCDE4801F,5,49538,Yes,1,171609,Employed,24,Own,116946,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_835,329776810190,ABCDE8720F,0,53805,No,1,67072,Employed,49,Own,123579,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_757,399241807559,ABCDE8021F,0,69585,Yes,2,174929,Unemployed,73,Own,130764,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_311,897660508756,ABCDE9675F,5,34886,No,1,39708,Employed,47,Rent,51040,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_736,855741137884,ABCDE2704F,4,88827,Yes,2,60945,Self-Employed,58,No Property,138406,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_799,456525896542,ABCDE6182F,3,9303,No,0,216646,Employed,44,Rent,242838,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_320,191815173160,ABCDE2277F,2,88387,Yes,0,286322,Employed,69,Rent,160223,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_741,573689665728,ABCDE1249F,5,61856,Yes,0,60719,Unemployed,62,Own,87904,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_83,925305162132,ABCDE9850F,1,82467,No,2,78699,Employed,35,Own,60411,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_560,819549575540,ABCDE4241F,4,5395,No,0,239713,Self-Employed,39,Rent,327974,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_817,226940229570,ABCDE2317F,2,5539,Yes,1,207670,Unemployed,33,Own,310243,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_669,736429678485,ABCDE9950F,4,79480,Yes,1,117137,Employed,71,No Property,33692,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_842,251471795229,ABCDE2952F,3,25395,Yes,1,123823,Employed,52,Rent,126714,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_849,235789499286,ABCDE9417F,4,89774,Yes,2,131395,Unemployed,73,Own,44199,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_954,977156153617,ABCDE9178F,2,54639,No,2,281279,Employed,68,Rent,207040,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_895,925741598172,ABCDE3017F,2,79821,Yes,0,129172,Unemployed,42,No Property,82228,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_224,114943759102,ABCDE5941F,0,50625,Yes,1,175149,Employed,48,No Property,188305,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_800,115060255941,ABCDE3818F,5,21789,No,2,54924,Employed,72,No Property,109312,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_482,577434865071,ABCDE8177F,1,94660,No,0,258196,Unemployed,49,Own,363318,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_219,902257260183,ABCDE3898F,1,36994,Yes,1,96816,Employed,59,Rent,119406,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_239,888512396883,ABCDE3396F,2,19876,Yes,2,102765,Unemployed,73,Own,103020,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_512,630397134808,ABCDE3448F,5,9395,No,2,61058,Employed,46,Rent,26693,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_288,902851104365,ABCDE2709F,5,93366,No,1,131695,Unemployed,29,No Property,51759,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_817,486257354825,ABCDE5111F,1,51607,Yes,0,285390,Employed,53,Rent,346058,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_645,431056154127,ABCDE4136F,4,32467,No,1,51017,Employed,39,No Property,35048,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_79,786868554560,ABCDE5577F,0,68210,No,1,250761,Employed,53,Rent,108605,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_404,917953031443,ABCDE4789F,0,65814,No,0,90638,Self-Employed,67,Rent,47781,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_4,265013929472,ABCDE9775F,2,83874,No,2,186901,Employed,39,Rent,115391,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_854,691000111765,ABCDE4471F,4,38086,Yes,0,276348,Self-Employed,60,Own,167013,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_983,842981527970,ABCDE8308F,4,24983,No,1,63418,Employed,40,Own,146312,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_232,255622162221,ABCDE7108F,4,91929,No,0,140890,Employed,70,Own,117361,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_925,569688016128,ABCDE9558F,5,21198,Yes,1,197106,Unemployed,30,Own,183918,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_230,405244360259,ABCDE2204F,0,15337,Yes,1,250444,Employed,37,Rent,352025,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_676,876197365317,ABCDE1558F,5,67851,Yes,1,252737,Employed,73,Own,225559,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_670,292854274048,ABCDE7983F,2,96523,No,2,288413,Unemployed,64,Own,255858,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_384,308062589649,ABCDE9328F,4,62883,Yes,0,95166,Employed,68,Own,92883,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_726,135105981585,ABCDE3219F,2,59038,No,0,169310,Employed,30,Rent,393689,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_157,668092409302,ABCDE5155F,5,57929,Yes,0,177668,Unemployed,73,Rent,302057,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_708,830425384215,ABCDE4153F,3,67946,Yes,2,165089,Self-Employed,33,Rent,186373,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_183,212545946205,ABCDE1782F,4,11604,Yes,2,195857,Self-Employed,71,No Property,385776,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_567,826313651942,ABCDE5737F,4,69644,Yes,2,132632,Employed,39,No Property,21465,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_789,450504017052,ABCDE4290F,2,78196,Yes,2,279109,Unemployed,65,No Property,326433,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_242,299861294124,ABCDE2391F,1,40259,No,2,29732,Self-Employed,34,Rent,74282,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_865,273253599430,ABCDE2965F,4,96680,No,1,260939,Self-Employed,57,Own,268822,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_583,844096445094,ABCDE4834F,5,18530,Yes,1,293765,Unemployed,66,No Property,347589,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_985,238439882345,ABCDE4853F,4,54920,No,2,86611,Employed,32,Rent,101760,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_475,156918896415,ABCDE1104F,1,5069,No,1,62269,Unemployed,61,Rent,88227,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_988,866781332001,ABCDE3861F,1,64901,No,2,150421,Self-Employed,24,Own,370891,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_337,251204695886,ABCDE7229F,4,43661,No,0,71413,Unemployed,33,No Property,68935,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_708,196397344821,ABCDE4693F,1,9108,Yes,1,246235,Unemployed,63,Own,322426,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_692,378913739603,ABCDE2494F,1,65904,No,0,32518,Employed,30,No Property,148833,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_949,762880364062,ABCDE9061F,1,52715,Yes,0,152538,Employed,53,Own,275309,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_483,860894079150,ABCDE5495F,4,33848,Yes,0,159267,Employed,42,Rent,280296,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_438,836365943110,ABCDE1138F,3,47769,Yes,0,139216,Employed,29,No Property,29807,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_785,110279772355,ABCDE2156F,1,16538,No,0,245348,Unemployed,45,Own,334719,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_457,962906591837,ABCDE9784F,5,58017,No,2,227271,Unemployed,30,No Property,370730,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_446,761993223049,ABCDE1994F,1,8102,Yes,1,95616,Self-Employed,34,No Property,34553,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_536,528918982383,ABCDE9368F,3,38787,Yes,1,259608,Employed,64,Rent,155336,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_145,493710564976,ABCDE2733F,0,66667,Yes,1,122562,Employed,45,Own,72994,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_112,906490753818,ABCDE9905F,3,54623,Yes,0,259535,Unemployed,64,Own,214992,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_741,220397366441,ABCDE9004F,4,88549,No,0,297956,Unemployed,41,Own,279456,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_200,478362370756,ABCDE9748F,1,10669,No,1,277319,Self-Employed,56,No Property,192688,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_949,978145683451,ABCDE1528F,1,59554,No,1,189626,Unemployed,58,No Property,110370,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_468,646897182078,ABCDE7125F,0,29368,No,0,226752,Unemployed,49,No Property,262739,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_953,163000434016,ABCDE5173F,4,23672,Yes,0,119672,Self-Employed,58,No Property,66067,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_466,962902405778,ABCDE3165F,0,47634,Yes,2,102178,Employed,25,Own,138743,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Widowed
+Person_280,248451947655,ABCDE3742F,0,78033,No,1,97039,Employed,41,Own,118822,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_121,280056658645,ABCDE3154F,3,28842,No,0,287906,Employed,37,Rent,263741,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_365,725928146178,ABCDE7206F,5,51244,Yes,0,77109,Employed,20,No Property,99268,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_431,586358935251,ABCDE1063F,2,71039,Yes,0,294755,Employed,53,No Property,258220,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_153,490786872358,ABCDE4243F,5,43852,No,2,159095,Employed,34,Own,254613,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_85,615095627499,ABCDE3282F,3,27917,Yes,2,59109,Self-Employed,68,No Property,131552,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_754,717388762910,ABCDE2055F,5,85606,No,2,41115,Unemployed,24,No Property,147655,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_636,879962838080,ABCDE7209F,2,86572,Yes,0,49730,Employed,75,Own,105702,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_946,102059299035,ABCDE3011F,2,72408,No,0,294406,Employed,65,Rent,236625,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_373,841598961116,ABCDE6309F,1,75539,Yes,0,32261,Employed,48,No Property,115645,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_422,848723358841,ABCDE6545F,0,82615,Yes,0,82811,Unemployed,38,Own,21360,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_442,280767616669,ABCDE7854F,5,98261,No,0,234610,Employed,42,Rent,231087,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_675,744807428700,ABCDE5946F,1,30543,No,1,210037,Self-Employed,27,Rent,148607,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_42,890886098994,ABCDE2106F,2,29683,No,1,270321,Employed,69,Own,257938,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_293,698871294083,ABCDE9473F,5,40584,Yes,2,208592,Employed,55,Own,270996,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_431,847619697334,ABCDE3870F,2,62359,Yes,0,95916,Employed,63,No Property,71478,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_274,761940585620,ABCDE1094F,4,13303,Yes,0,253520,Unemployed,55,No Property,109072,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_715,172417467533,ABCDE7588F,2,81762,Yes,0,253125,Self-Employed,40,No Property,209145,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_220,778237467824,ABCDE9581F,3,52198,No,0,260840,Unemployed,56,Rent,224723,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_335,313881912523,ABCDE6423F,3,90364,Yes,1,74566,Unemployed,54,Own,91291,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_605,601385379782,ABCDE1087F,2,70070,Yes,2,120177,Unemployed,22,Rent,103776,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_392,934063814393,ABCDE8070F,2,78767,Yes,2,213290,Employed,74,No Property,274635,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_543,179676378719,ABCDE8478F,1,40279,Yes,0,215951,Employed,71,Rent,201160,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Married
+Person_129,277227910869,ABCDE8486F,4,53916,No,1,129631,Self-Employed,57,Rent,87339,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Divorced
+Person_634,388836518226,ABCDE9936F,0,72834,No,1,275422,Employed,47,Own,129708,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_20,960152038271,ABCDE2364F,0,45410,No,0,123139,Self-Employed,53,Rent,104949,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_567,928028894171,ABCDE2091F,3,5809,Yes,1,140952,Employed,28,No Property,143140,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_487,974402071839,ABCDE6880F,4,70801,No,0,210979,Employed,23,Own,255660,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_375,323966002236,ABCDE4393F,1,20726,Yes,2,203517,Unemployed,51,No Property,198992,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_834,844134048326,ABCDE4258F,1,26960,No,0,62178,Unemployed,61,No Property,119929,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_7,239311188211,ABCDE8624F,4,40400,No,1,200646,Employed,73,Own,319108,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_925,654147173575,ABCDE2076F,1,96017,No,2,137950,Employed,73,No Property,79522,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Divorced
+Person_881,138740185652,ABCDE8911F,2,73806,No,0,65190,Employed,41,Rent,21110,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_706,395592318789,ABCDE5392F,1,20693,No,0,33267,Unemployed,54,No Property,23854,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_701,308404888333,ABCDE8565F,4,48145,Yes,2,94933,Unemployed,71,Rent,23331,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Divorced
+Person_624,739851855990,ABCDE6328F,1,55875,Yes,1,62608,Employed,57,Own,83438,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_618,559529198144,ABCDE3668F,1,61289,Yes,1,32449,Employed,42,Rent,108029,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Married
+Person_980,732790435906,ABCDE3358F,5,16070,Yes,2,63875,Self-Employed,35,No Property,102735,Ministry Of Chemicals And Fertilizers,Fertilizer Subsidy,Widowed
+Person_485,518015849584,ABCDE1232F,1,38291,No,2,284887,Employed,69,No Property,299449,Ministry Of Agriculture and Farmers Welfare,RKVY,Married
+Person_794,604068302004,ABCDE2394F,1,80058,Yes,2,27822,Employed,32,No Property,37100,Ministry Of Agriculture and Farmers Welfare,RKVY,Divorced
+Person_592,544133226287,ABCDE6420F,4,9867,Yes,2,177637,Unemployed,39,No Property,164406,Ministry Of Agriculture and Farmers Welfare,RKVY,Widowed
+Person_621,339290155175,ABCDE1173F,0,66524,Yes,2,267833,Unemployed,43,Rent,204184,Ministry Of Agriculture and Farmers Welfare,PM-Kisan,Married
+Person_96,718230200799,ABCDE9198F,1,7706,Yes,2,208457,Employed,35,Own,204404,Ministry Of Chemicals And Fertilizers,Nutrient-Based Subsidy,Widowed
+Person_246,666744633337,ABCDE2283F,5,44025,No,1,108345,Unemployed,54,Rent,79111,Ministry Of Agriculture and Farmers Welfare,RKVY,Married

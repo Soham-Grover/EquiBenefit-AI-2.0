@@ -25,7 +25,7 @@ def generate_dummy_data(num_records):
             bank_balance = random.randint(20000, 150000)
         employment_status = random.choice(["Employed", "Unemployed", "Self-Employed", "Employed", "Employed"])
         age = random.randint(18, 75)
-        real_estate_status = random.choice(["Own", "Rent", "None"])
+        real_estate_status = random.choice(["Own", "Rent", "No Property"])
         ministry = random.choice(list(ministries_schemes.keys()))
         scheme = random.choice(ministries_schemes[ministry])
         marital_status = random.choice(["Widowed", "Married", "Married", "Married", "Married", "Divorced", "Married"])
@@ -57,6 +57,6 @@ dummy_data = generate_dummy_data(1000)
 print(dummy_data.head(10))
 
 # Save the dataset to a CSV file
-dummy_data.to_csv("dummy_data_updated2.csv", index=False)
+dummy_data.to_csv("data2.csv", index=False)
 
 print("Dummy data has been saved to 'dummy_data.csv'.")
