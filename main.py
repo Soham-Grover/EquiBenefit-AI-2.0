@@ -4,6 +4,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.impute import SimpleImputer  # For handling missing values
+from sklearn.metrics import f1_score
 
 # -----SETTING UP OUR DATA-----
 
@@ -93,3 +94,6 @@ for prediction in predict_eligibility:
 
 sklearn_cm = confusion_matrix(y_test, predict_eligibility)
 print(sklearn_cm)
+
+sklearn_f1 = f1_score(y_test, predict_eligibility, average='weighted')
+print(sklearn_f1)
