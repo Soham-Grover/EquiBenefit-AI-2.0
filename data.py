@@ -51,12 +51,12 @@ def generate_dummy_data(num_records):
     return pd.DataFrame(data)
 
 # Generate 50 dummy records
-dummy_data = generate_dummy_data(1000)
+dummy_data = generate_dummy_data(20000)
 
 # Display the first 10 rows of the dataset
 print(dummy_data.head(10))
 
 # Save the dataset to a CSV file
-dummy_data.to_csv("data2.csv", index=False)
+dummy_data.to_csv("data5.csv", index=False)
 
 print("Dummy data has been saved to 'dummy_data.csv'.")
